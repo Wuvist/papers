@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "06fb08fae75d0cbb",
+        "id": "f469ca08767fd425",
         "type": "tabs",
         "children": [
           {
-            "id": "f5efa956324d51f4",
+            "id": "ebc1606ddd90835a",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fda7dec57e4429d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How does inequality in Japan compare with others.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How does inequality in Japan compare with others.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How does inequality in Japan compare with others.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "How does inequality in Japan compare with others.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,13 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda7dec57e4429d5",
+  "active": "ebc1606ddd90835a",
   "lastOpenFiles": [
+    "How does inequality in Japan compare with others.md",
     "atts/saito202204_Figure4.png",
     "atts/saito202204_Figure3.png",
     "atts/saito202204_Figure2.png",
     "atts",
-    "atts/saito202204_Figure1.png",
-    "How does inequality in Japan compare with others.md"
+    "atts/saito202204_Figure1.png"
   ]
 }
