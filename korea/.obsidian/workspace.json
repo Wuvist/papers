@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "1f5e691a4d1da151",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e6d771b43007747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d557545019f9d30c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2f70818e34e8592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "term_paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dc3105aa7e5ffba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "term_paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c03fb318b8c9c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "049580b807398316",
+    "type": "split",
+    "children": [
+      {
+        "id": "4750ed0dc8da0298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73cb65acc5daa879",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d24c1b810871a112",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20f278df6ed06fa8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b084b6ec12e597ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "596fe19697fa20b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4635d1391aac0061",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a918939677edd2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3da39ebc75c4d4b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0b94c74d84ef6cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c03fb318b8c9c92",
+  "lastOpenFiles": [
+    "term_paper.md",
+    "bard.md",
+    "TheBudgetSystemofKorea.pdf",
+    "ref.md",
+    "atts/spending.png",
+    "southkorea-economy-budget-2023.md",
+    "tax revenue sees sharpest-ever decline in Q1.md",
+    "revenue-statistics-korea.pdf",
+    "gov-at-a-glance-2021-korea.pdf",
+    "Korea_oecd.pdf",
+    "atts/president.png",
+    "atts/budgets.png",
+    "atts"
+  ]
+}
