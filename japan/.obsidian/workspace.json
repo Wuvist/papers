@@ -11,8 +11,12 @@
             "id": "ebc1606ddd90835a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "draft.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "148994146b946a4f",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ref.md",
+                "file": "draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ref.md",
+                "file": "draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ref.md"
+                "file": "draft.md"
               }
             }
           }
@@ -155,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f22f0c66a107ad23",
+  "active": "ebc1606ddd90835a",
   "lastOpenFiles": [
+    "atts/poverty_rate.png",
+    "term_paper.md",
+    "ref.md",
+    "draft.md",
     "Annual Health, Labour and Welfare Report.pdf",
     "Unconfirmed 258642.crdownload",
     "White Paper on the Labour Economy.pdf",

@@ -12,5 +12,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
+    }
   ]
 }
