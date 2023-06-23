@@ -23,3 +23,5 @@
 https://tradingeconomics.com/south-korea/government-spending
 
 ![[spending.png]]
+
+[Fiscal Decentralization and Local Government Performance: Decentralized Taxation and Expenditure in Korean Local Governments | Published in Journal of Policy Studies (scholasticahq.com)](https://jps.scholasticahq.com/article/33178-fiscal-decentralization-and-local-government-performance-decentralized-taxation-and-expenditure-in-korean-local-governments)

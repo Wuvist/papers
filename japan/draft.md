@@ -2,6 +2,16 @@
 
 This paper will analysis Japan's growth data from 1998-2023, we would start an overview of Japan's economic within the period.
 
+GDP: Cabinet Office  (Billions of Chained (2015) Yen)
+Investment: Cabinet Office 
+Employment: 
+[Statistics Bureau Home Page/Labour Force Survey/Historical data](https://www.stat.go.jp/english/data/roudou/lngindex.html)
+
+[Jan.-Mar. 2023 (The 2nd preliminary) : Economic and Social Research Institute - Cabinet Office Home Page (cao.go.jp)](https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2023/qe231_2/gdemenuea.html)
+
+[II Does Japan Save Too Much? in: Saving Behavior and the Asset Price "Bubble" in Japan (imf.org)](https://www.elibrary.imf.org/display/book/9781557754622/ch02.xml#:~:text=Capital%27s%20Share%20of%20Output%20(a,(of%20about%2040%20percent).)
+_Capital’s Share of Output (a)_. National accounts data in Japan suggest that capital’s share of national income is about 35 percent. Estimates based on an aggregate production function approach, however, indicate an even higher share (of about 40 percent).[5](https://www.elibrary.imf.org/display/book/9781557754622/ch02.xml#fn5) For analytical purposes, the work that follows will consider values of 0.35 and 0.40.
+
 And look into its trends within each government.
 
 cabinet - GDP
@@ -120,6 +130,7 @@ https://en.wikipedia.org/wiki/Homelessness_in_Japan
 [How does inequality in Japan compare with others? | 公益社団法人 日本経済研究センター:Japan Center for Economic Research (jcer.or.jp)](https://www.jcer.or.jp/english/how-does-inequality-in-japan-compare-with-others)
 [Income Inequality - Our World in Data](https://ourworldindata.org/income-inequality#within-country-inequality-in-rich-countries)
 [The Chartbook of Economic Inequality – Data on Economic Inequality over the long-run](https://www.chartbookofeconomicinequality.com/)
+[Average annual hours actually worked per worker (oecd.org)](https://stats.oecd.org/Index.aspx?DataSetCode=ANHRS#)
 
 
 # My view

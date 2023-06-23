@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "148994146b946a4f",
@@ -161,20 +160,26 @@
   },
   "active": "ebc1606ddd90835a",
   "lastOpenFiles": [
+    "94883000",
+    "7CA51000",
+    "~$growth.xlsx",
+    "EE340000",
+    "~$growth_accounting.xlsx",
+    "9371C100",
+    "growth.xlsx",
+    "jip2021_4.xlsx",
+    "~$fixed_capital_stock.xlsx",
+    "~$employment.xlsx",
+    "65462100",
     "atts/poverty_rate.png",
     "term_paper.md",
     "ref.md",
     "draft.md",
-    "Annual Health, Labour and Welfare Report.pdf",
-    "Unconfirmed 258642.crdownload",
-    "White Paper on the Labour Economy.pdf",
-    "Unconfirmed 368458.crdownload",
     "Struggling.md",
     "How does inequality in Japan compare with others.md",
     "atts/saito202204_Figure4.png",
     "atts/saito202204_Figure3.png",
     "atts/saito202204_Figure2.png",
-    "atts",
     "atts/saito202204_Figure1.png"
   ]
 }
