@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft.md",
+                "file": "study_guide.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ref.md",
+                "file": "draft.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,28 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebc1606ddd90835a",
+  "active": "f22f0c66a107ad23",
   "lastOpenFiles": [
-    "94883000",
-    "7CA51000",
-    "~$growth.xlsx",
-    "EE340000",
-    "~$growth_accounting.xlsx",
-    "9371C100",
-    "growth.xlsx",
-    "jip2021_4.xlsx",
-    "~$fixed_capital_stock.xlsx",
-    "~$employment.xlsx",
-    "65462100",
-    "atts/poverty_rate.png",
-    "term_paper.md",
+    "29774430",
+    "atts/gini_age.png",
+    "atts/gini_trend.png",
+    "atts/10yyield_gap.png",
+    "atts/10yyield_difference_3year.png",
     "ref.md",
+    "term_paper.md",
+    "Deleveraging and Monetary Policy jep.26.3.177.pdf",
+    "Unconfirmed 788262.crdownload",
     "draft.md",
+    "217_psu_japan_finance_final.pdf",
+    "Unconfirmed 453150.crdownload",
+    "93BD1230",
+    "9E461230",
+    "~$growth_accounting.xlsx",
+    "~$employment.xlsx",
+    "gaku-jcy2312.csv",
+    "japan_ref.bib",
+    "atts/homeless.png",
+    "atts/birth_rate.png",
+    "atts/domestic_credit_private_sector.png",
+    "atts/nikkei_225_index.png",
+    "study_guide.md",
+    "atts/income_2020.png",
+    "atts/income_2021.png",
     "Struggling.md",
-    "How does inequality in Japan compare with others.md",
-    "atts/saito202204_Figure4.png",
-    "atts/saito202204_Figure3.png",
-    "atts/saito202204_Figure2.png",
-    "atts/saito202204_Figure1.png"
+    "How does inequality in Japan compare with others.md"
   ]
 }

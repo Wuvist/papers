@@ -14,11 +14,61 @@ _Capital’s Share of Output (a)_. National accounts data in Japan suggest that 
 
 And look into its trends within each government.
 
+Problem is not about capital, but about finding industry with huge potential to invest.
+Semi-conductor: Kioxia
+
+# Market capitalization of Toshiba (6502.T)
+
+## **Market cap: $13.69 Billion**
+
 cabinet - GDP
 stats employment
 investment - world bank
 
+Domestic credit to private sector (% of GDP) - Japan
+
+https://data.worldbank.org/indicator/FS.AST.PRVT.GD.ZS
+
+[Nikkei 225 Index - 67 Year Historical Chart | MacroTrends](https://www.macrotrends.net/2593/nikkei-225-index-historical-chart-data)
+
 compare
+
+13th Japan ranks 13th among the 132 economies featured in the GII 2022.
+https://www.wipo.int/
+
+2007: 4
+Japan’s ranking in the GII was 9th in the 2008-09 GII,
+2010: 13
+|2011|20|
+|2012|25|
+|2013|22|
+|2014|21|
+|2015|19|
+|2016|16|
+|2017|14|
+|2018|13|
+|2018|15|
+|2019|15|
+|2020|16|
+|2021|12|
+|2022|13|
+
+![[innovation_rank.png]]
+
+Factor Accumulation:
+* Low-end labor
+* High-end professionals
+
+In the early stages of economic development, factor accumulation is often more important. However, as economies mature, the potential for growth through factor accumulation decreases, and productivity growth becomes more crucial.
+
+japan craftsmanship
+
+“Some people say, "Give the customers what they want." But that's not my approach. Our job is to figure out what they're going to want before they do. I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them. That's why I never rely on market research. Our task is to read things that are not yet on the page.”  
+― Steve Jobs
+
+jiro dreams of sushi
+“After ten years they let you cook the eggs…”
+	inequality
 
 property market
 stock price
@@ -26,7 +76,35 @@ exchange
 debt
 M2
 CPI
+	[Inflation, consumer prices (annual %) - Japan | Data (worldbank.org)](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=JP)
+	
 aging population
+
+![[wage_growth.png]]
+![[exchange_rate.png]]
+
+![[fdi.png]]
+![[welfare_budget.png]]
+![[welfare_structure.png]]
+
+![[inflation.png]]
+![[real_interest_rate.png]]
+
+Sony market cap
+Size of domestic market
+Apple
+[Japan’s Staying Power in the Fortune Global 500 - TheJapanologist.com](https://www.thejapanologist.com/blog/japans-staying-power-in-the-fortune-global-500)
+
+[Abenomics Definition from Financial Times Lexicon (archive.org)](https://web.archive.org/web/20171118081548/http://lexicon.ft.com/Term?term=abenomics)
+
+[Largest automakers by market capitalization (companiesmarketcap.com)](https://companiesmarketcap.com/automakers/largest-automakers-by-market-cap/)
+![[mobile_market_cap.png]]
+
+[National and Regional House Price Indices : Japan (oecd.org)](https://stats.oecd.org/Index.aspx?QueryId=98836#)
+
+[PMO | PM Lee Hsien Loong's Q&A session at the 27th International Conference on the Future of Asia](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Q-and-A-session-at-the-27th-International-Conference-on-the-Future-of-Asia)
+
+[Number of Fortune 500 companies per country 2022 | Statista](https://www.statista.com/statistics/1204099/number-fortune-500-companies-worldwide-country/)
 
 	When asked about why Japanese car dealerships did not sell American cars, he answered, "Why doesn't IBM sell Fujitsu computers?"[citation needed] When Japan's economy did not seem to be recovering from its 1991 collapse, Hashimoto ordered a commission of experts from the private sector to look into improving the Japanese market for foreign competition, and eventually opening it completely.
 	Hashimoto's government raised the Japanese consumption tax in 1997. Although the government implemented a reduction in the personal income tax prior to raising the consumption tax, the hike still had a negative effect on consumer demand in Japan.[12]
@@ -51,6 +129,8 @@ Yasuo Fukuda 福田 康夫: 26 Sep 2007 – 24 Sep 2008
 
 Tarō Asō 麻生 太郎: 24 Sep 2008 – 16 Sep 2009
 	2008年，與小泉純一郎政見相悖的麻生太郎以絕對優勢當選第23代自民黨總裁和第92代內閣總理大臣之後，小泉純一郎宣佈退出政壇。
+	 "The greatest concern right now is the economy." "America is facing a financial crisis ... we must not allow that to bring us down as well."
+	 [Aso elected LDP president - Japan Today](https://japantoday.com/category/politics/aso-set-to-win-ldp-presidential-race)
 	麻生太郎與安倍晉三的政治理念相近，兩人共同倡議與和日本同樣意識形態的國家合作的價值觀外交政策方針，提出「自由與繁榮之弧」的構想。
 Yukio Hatoyama 鳩山 友紀夫: 16 Sep 2009 – 8 June 2010
 	fraternity 友愛
@@ -72,7 +152,17 @@ Shinzo Abe 安倍 晋三: 26 Dec 2012 – 16 Sep 2020
 Yoshihide Suga 菅 義偉: 16 Sep 2020 – 4 Oct 2021
 Fumio Kishida 岸田 文雄 : 4 Oct 2021
 
+Estimated unionization rate is 17.1%
 
+Domestict deb rate
+
+[Kishida Says Japan Overstated Construction Data Used in GDP - Bloomberg](https://www.bloomberg.com/news/articles/2021-12-15/kishida-confirms-japan-overstated-construction-data-used-in-gdp)
+
+![[income_2008.png]]
+![[income_2021.png]]
+![[income_2020.png]]
+
+Postal Industrializaion!!
 
 # Bard
   
