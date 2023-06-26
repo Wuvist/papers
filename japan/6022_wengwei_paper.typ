@@ -5,7 +5,7 @@
   ],
   numbering: "1",
 )
-#set par(justify: true)
+#set par(justify: false)
 #set text(
   font: "Linux Libertine",
   size: 11pt,
@@ -31,7 +31,7 @@
 #align(center)[
   #set par(justify: true)
   *Abstract* \
-  After gaining high growth during 1960s to 1980s, Japan's asset price bubble burst in 1992 and the economy stagnated. Japan's stagantion is sometimes refered as "Lost Decade" @lost_decade . This paper first perform growth accounting on Japan's macro economy from 1997 to 2023 using Solow-Swan model. Followed by analysis of various government policies's impact on growth, inequality and poverty. Suggestion on potential policies made at the end.
+  After gaining high growth during 1960s to 1980s, Japan's asset price bubble burst in 1992 and the economy stagnated. Japan's stagantion is sometimes refered as "Lost Decade" @lost_decade . This paper first perform growth accounting on Japan's macro economy from 1997 to 2023 using Solow-Swan model. Followed by analysis of various government policies's impact on growth, inequality and poverty. It should that main binding constrain of Japan's economic growht is innovation, and depending on its share on global market. Suggestion on potential domestic policies as also made at the end.
 ]
 
 #let title = [
@@ -151,7 +151,7 @@ Each growth strategy will has its scaling limit. Even we assume making global in
 
 The country with large population that successful overcome "moderately developed country" will be United State, it's a country with GDP per capita of 69,287 measured in PPP @us_ppp and has a population 332 millions.
 
-The US economy becomes the biggest economy in the world by deeply integrated with global economy, globalization that build up global supply chain and enable US products to compete in all over the world. 
+The US economy becomes the biggest economy in the world by deeply integrated with global economy, globalization that build up global supply chain and enable US products to compete in all over the world.
 
 And one traits of global competition is sometimes "winner takes all" (or majority of the profit).
 
@@ -224,12 +224,10 @@ In the report, it stated:
 Not so bad comparing to other advance economy like UK or US. This is may due to the tradition of firms adapting Nenko System for wage. But, if we look at the wages data more closerly, its shows large gender inequality:
 
 #image("gender_wage.png")
-
-This gender income gap actually droped if we look at data from 2008 (the earliest data avaiable from japanese government) and 2021
 #image("atts/income_2008.png")
 #image("atts/income_2021.png")
 
-The narrowing of the income gap between male & femle is due to the decrease of top income male workers, other than the increase of females workers.
+This gender income gap actually droped if we look at data from 2008 (the earliest data avaiable from japanese government) and 2021. But The narrowing of the income gap between male & femle is due to the decrease of top income male workers, other than the increase of females workers.
 
 This could be due to varies reason, includes but not limited of female Japanese not being ambitous at work and focus on family and possibile gender discrimination at work place. But, this may shows potential increase of Japanese's work force. It has half of the work force waiting to be economicall incentives and potentially bring innovation and growth.
 
@@ -280,7 +278,7 @@ The data related to poverty in Japan is also limited. Officially, Japan governme
 - The relative poverty rate of total population, working generation and children, which had respectively been showing upward trends, declined recently. Although the relative poverty rate for the elderly generation is higher than for other generations, it tends to decline.
 #image("atts/poverty_rate.png")
 
-The other number worth noting will be the number of homeless person in Japan. I would assuming homeless people in Japan to be the most poor class, or in absolute poverty. And according to Ministry of Health, Labour and Welfare stats, this number has been droping significantly throught the years @homeless :
+The other number worth noting will be the number of homeless person in Japan. I would assuming homeless people in Japan to be the most poor class, or in absolute poverty. And according to Ministry of Health, Labour and Welfare stats, this number has been droping significantly @homeless:
 #image("atts/homeless.png")
 
 Although people moving aways homeless - absolute poverty, their income may still be less than half of the median of equivalent disposable income, i.e. under official poverty line, I would still recognize it to be a big improvement in reducing provety by decreasing number of homeless person from 25000+ to below 4000 in 2022 @homeless_2022 .
@@ -292,6 +290,6 @@ This result is consistent with continueous increasement of Japanese government's
 
 == Conclusion
 
-Growth must be inclusiv2e
+Japan, as an advanced economy since early 1990s, the main binding constrain for further high growth will be on its ability to innovate, only world class innovation from Japanese firms allowing them to gain profits from massive global markets will give Japan high growth. In terms of domestic policy, government should spend more effort on issue on inequality and poverty. Having a more inclusive economy will not only solve issues on inequality and poverty, but will help in economy growth as well.
 
 #bibliography("japan_ref.bib")
