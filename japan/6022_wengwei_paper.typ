@@ -161,15 +161,18 @@ Automobile industry is another example, being pioneered in electronic vhecles, T
 
 #image("atts/mobile_market_cap.png")
 
-Both Apple & Tesla are US companies. It's innovative companies like these gives tremedeous growth, and their growth combined drives the overall growth of a country.
+It's worth noting that it's estimated that share of GDP of automobile industry in Japan is 12%, and in the economy of developed countries, growth in the automotive industry by 1% causes a GDP growth of 1.5% @automobile. Furthermore, Apple being the biggest company in the world its 2.94 trillion USD market capital, it's about 3.5 times of Tesla and more than 13 times of Toyota.
+
+Both Apple & Tesla are US companies. It's innovative companies like these gives tremedeous growth, and their growth combined drive the overall growth of a country.
 
 Companies needs innovation to create distictive products that grab the most profit - generate large growth.
 
-If Japan aims to have growths similar or even higher than US, it will comes down to the question: Can Japanese companies must beats US firms in the global competition. Or the be more specific to above example:
+If Japan aims to have growths similar or even higher than US, it will comes down to the question: Can Japanese companies must beats US firms in the global competition. Or the be more specific with above example:
 
-Can Sony create innovative smart phones better than Apple, and beats Apple in competition? Can Toyota create EVs or hydrogen powered car that beats Tesla?
+Can Sony create innovative smart phones better than iPhone, and beats Apple in competition?
+Can Toyota create EVs or hydrogen powered car that beats Tesla?
 
-In order for countries like Japan & US with population larger than 100m, they will need to be leading in many industries with vast global market in the world. That includes entertainment, semiconductor, internet etc.
+For countries like Japan & US with population larger than 100m, they will need to be leading in many industries with vast global market in the world. That includes entertainment, semi-conductor, internet etc.
 
 Altought Japanese firms does well in all these industries, but they are seldom the top 1 that could gain the most profit, i.e. contribute to the country's growth by boosting TFP.
 
@@ -181,10 +184,10 @@ Japan didn't make it into top 10 in global innovation ranking:
 
 This could due to various number of reasons.
 
-The typical Japanese culture famous world wide is Craftmanship. And it's best be represented in the documentary Jiro Dreams of Sushi @sushi :
+The typical Japanese culture famous world wide is craftmanship which best be represented in the documentary Jiro Dreams of Sushi @sushi :
 "After ten years they let you cook the eggs…"
 
-Skilled worker - chef spending decades perfecting cooking skills could make the best sushi in the world, but it's not the product that could be sold to mass global market.
+Skilled worker or chef spending decades perfecting cooking skills could make the best sushi in the world, but it's not the product that could be sold to mass global market.
 
 Another possible reason could be lack of economy incentive for innovation.
 
@@ -227,7 +230,7 @@ Not so bad comparing to other advance economy like UK or US. This is may due to 
 #image("atts/income_2008.png")
 #image("atts/income_2021.png")
 
-This gender income gap actually droped if we look at data from 2008 (the earliest data avaiable from japanese government) and 2021. But The narrowing of the income gap between male & femle is due to the decrease of top income male workers, other than the increase of females workers.
+This gender income gap actually droped if we look at data from 2008 (the earliest data avaiable from Japanese government) and 2021. But The narrowing of the income gap between male & femle is due to the decrease of top income male workers, other than the increase of females workers.
 
 This could be due to varies reason, includes but not limited of female Japanese not being ambitous at work and focus on family and possibile gender discrimination at work place. But, this may shows potential increase of Japanese's work force. It has half of the work force waiting to be economicall incentives and potentially bring innovation and growth.
 
