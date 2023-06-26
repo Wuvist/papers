@@ -31,7 +31,7 @@
 #align(center)[
   #set par(justify: true)
   *Abstract* \
-  After gaining high growth during 1960s to 1980s, Japan's asset price bubble burst in 1992 and the economy stagnated. Japan's stagantion is sometimes referred as "Lost Decade" @lost_decade . This paper first perform growth accounting on Japan's macro economy from 1997 to 2023 using Solow-Swan model. Followed by analysis of various government policies's impact on growth, inequality and poverty. It should that main binding constrain of Japan's economic growth is innovation, and depending on its share on global market. Suggestion on potential domestic policies as also made at the end.
+  After gaining high growth during 1960s to 1980s, Japan's asset price bubble burst in 1992 and the economy stagnated. Japan's stagnation is sometimes referred as "Lost Decade" @lost_decade . This paper first perform growth accounting on Japan's macro economy from 1997 to 2023 using Solow-Swan model. Followed by analysis of various government policies's impact on growth, inequality and poverty. It should that main binding constrain of Japan's economic growth is innovation, and depending on its share on global market. Suggestion on potential domestic policies as also made at the end.
 ]
 
 #let title = [
