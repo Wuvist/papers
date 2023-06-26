@@ -31,7 +31,7 @@
 #align(center)[
   #set par(justify: true)
   *Abstract* \
-  After gaining high growth during 1960s to 1980s, Japan's assets bubble burst in 1992 and the economy stagnated. Japan's stagantion is refered as "Lost Decades" bib. This paper first perform growth accounting about Japan's macro economy from 1997, i.e. middle of the "Lost Decade" to 2023 using solow swan model. Followed by growth dianostic on the industries and impact of different government policy economy growth, poverty and inequality, especially of "Abenomics" after 2012. Potential policy that Japan could adapt to gain higher growth in future is proposed at the end.
+  After gaining high growth during 1960s to 1980s, Japan's asset price bubble burst in 1992 and the economy stagnated. Japan's stagantion is sometimes refered as "Lost Decade" @lost_decade . This paper first perform growth accounting on Japan's macro economy from 1997 to 2023 using Solow-Swan model. Followed by analysis of various government policies's impact on growth, inequality and poverty. Suggestion on potential policies made at the end.
 ]
 
 #let title = [
@@ -41,51 +41,93 @@
 == Growth Accounting
 
 Data Source:
-- $Y$: Real GDP, provided by cabinet office of Japan, unit in billion, 1995 Japanese Yen. @real_gdp
-- $K$: Real GDP, provided by cabinet office of Japan, unit in billion, 1995 Japanese Yen. @capital_stock
+- $Y$: Real GDP, data from cabinet office of Japan, unit in billion, 1995 Japanese Yen. @real_gdp
+- $K$: Net capital stocks of fixed assets, data from cabinet office of Japan, unit in billion, 1995 Japanese Yen. @capital_stock
 - $L$: Labour, $L = W * H$, unit in ten thousand hours
- - $W$: Seasonal adjusted number of workers provided by Statistics Bureau of Japan @labour_force at the end of the year, unit in ten thousand persons
+ - $W$: Seasonal adjusted number of workers at the end of the year, data from Statistics Bureau of Japan @labour_force , unit in ten thousand persons
  - $H$: Average working hours per worker in Japan provided by OECD @work_hours, unit in hours per worker
 
-I choose $Y$ and $K$ data provided by cabinet office of Japan as it should be the most authoritative source of data.
+I choose $Y$ and $K$ data from cabinet office of Japan as it should be the most authoritative source of data.
 
-I choose $L$ data provided by Statistics Bureau of Japan as it provides the most compresivive data since Jan 1953, but it didn't provide average working hours per worker. Thus I use data from OECD, which provide data of OECD countries that may be used for comparism in future studies.
+I choose $L$ data provided by Statistics Bureau of Japan as it provides the most comprehansive data since Jan 1953, but it didn't provide average working hours per worker. Thus I use data from OECD, which provide data of OECD countries that may be used for comparism in future studies.
 
-Although Japanese government's official statistics may contains error  , the fact that such error being revivsed should add credibility to official statistics.
+Although Japanese government's official statistics may contains error @stats_error , the fact that such error being revivsed should add credibility to official statistics.
 
-The size of Japan work force has been slowing declining, possibly due to aging population, and the annual hourly working hours
-- $α$: the capital share of Y, this value is usually assumed to be 40%, noting that the value of Japan could be lower(like 32% for 1990s), I also added calculation when $α$ is 20% for comparison.
-
-Thus, using Swolow-Swan model, Japan's Total Factor Productivity - A could be caculated by:
+Bu using Swolow-Swan model, Japan's Total Factor Productivity - $A$ could be caculated by:
 
 $ A = Y \/ K^α \/ L^(1-α) $
 
+- $α$: capital share of $Y$, this value is usually assumed to be $0.4$, noting this value could be lower(like 32% for 1990s @capital_share_of_y ), I also added calculation for $α=0.2$ for comparison.
+
 #image("growth_accounting.png")
 
-As shown in above table, the compound annual growth rate - CAGR of Japan's real GDP is merely 0.54%, with a even lower CAGR of capital stock of 44%.
+As shown in above table, the compound annual growth rate - CAGR of Japan's real GDP $Y$ is merely $0.54%$, with a even lower CAGR of capital stock $K$ of $0.44%$.
 
-And the number of employment is close to zero (0.06%), and it's worsen by the declining of average annual hours per worker (-0.58%), and result in a decline in Labour(L) of -0.53% CAGR.
+The size of Japan work force almost didn't change, CAGR is close to zero (0.06%). The overall labour $L$ is worsen by the declining of average annual hours per worker of $-0.58%$, resulting in a $-0.53%$ CAGR of $L$.
 
-The value of TFP(A) is between 6% ~ 8%. It may looks high comparing to Y/K/L, but this is due to the unit of choosing in Y/K/L, 
+The value of TFP(A) is between 6% ~ 8%. It may looks high comparing to $Y, K, L$, but this is due to the unit chosen for $Y, K, L$. If we change the unit of $L$ from ten thousand hours to one hour, the TFP in 1997 will become $0.03340%$ ($α=0.4$). And if we change the unit of $Y, K$ from billons to a dollar, TFP will become $2107094%$.
 
-It's more important to analyze the CAGR of TFP comparing to K/L, intead of looking at its norminal value, which could be scaled by choosing a different unit of for Y/K/L.
+It's more important to analyze the CAGR of $A$ comparing to $K, L$, intead of looking at its norminal value for individual years, which could be scaled by choosing a different unit of for $Y, K, L$.
 
-If we change the unit of L from 10K hours to hours, the TFP in 1997 will become 0.03340% ($α=0.4$). And if we change the unit of Y/K from billons to a dollar, TFP will become 2107094%+!
+The CAGR of $A$ is $0.69%$ when $α=0.4$, or $0.88%$ when $α=0.2$, i.e the lower the capital share of $Y$, the higher the portion of growth will be attributed to $A$, as $L$ already reaches negative.
 
-By comparing the CAGR of Y/K/L/A, we could the growth of Japan economy is mainly attributed to growth in TFP, and when TFP is limited, the overall growth of overall will be limited as well.
+By comparing the CAGR of $Y, K, L, A$, we could identify that growth of Japan economy is mainly attributed to growth in TFP, and when TFP is limited, the overall growth of overall will be limited as well.
 
 === Timeline
 
-Through out the 25 years period, the real GDP has negative growth in 1998~1999, 2008~2009 and 2020. These time period matches Asian finacial crisis, Global Financial crisis and covid-19 repetively.
+In 1998 and 1999, the real GDP growth were negative ($-1.27%, -0.33%$), this is due to the economy shock by Asian finacial crisis.
 
-It's peak at 1999
+It was bounced back by 2.76% in 2000, but the growth in subsequent two years are weak.
 
-2004
-Junichirō Koizumi 2.19%, A 2.63%
-骨太の方針, Honebuto no hōshin
-Basic Policies for Economic and Fiscal Management and Reform 経済財政運営と構造改革に関する基本方針
+The growth in 2003 to 2007 are relatively strong, especially 2004 with a real growth of $2.19%$, this is the highest in this 25 years period, besides the years bouncing back from negative growth.
 
-reform works, but limited
+This relatively good growth could be because of Junichirō Koizumi's structural reform policy: Basic Policies for Economic and Fiscal Management and Reform 経済財政運営と構造改革に関する基本方針 or "big-boned" policy 骨太の方針 .
+
+The overall CAGR in real GDP under Junichirō Koizumi's adminitration between 2001 and 2006 is $0.77%$.
+
+Global finacial crisis hit Japan heavily in 2008 and 2009. Knowing full well of this impact, Prime Minister at the period - Tarō Asō stats that: "The greatest concern right now is the economy..America is facing a financial crisis ... we must not allow that to bring us down as well." shortly after winning the election. @aso
+
+But Tarō Asō didn't manage to restore Japan's economic health, the real GDP shrinked by $-1.22%$ in 2008 and $-5.69%$ and it resulted in Liberal Democratic Party LDP losing the majority, and Yukio Hatoyama from Democratic Party of Japan became Prime Minister.
+
+Yukio Hatoyama resigned less than 1 year because of breaking election promise @break_promise , and the growth in GDP is the lowest of $0.02%$ in 2011, after a recover of $4.10%$ in 2010.
+
+The Tōhoku earthquake causing tsunami and Fukushima nuclear disaster @earthquake would explain its extreme low growth in 2011.
+
+Shinzo Abe won election in December 2012, and started large and long standing economy reform known as "Abenomics" @abenomics which consists "three arrow":
+
+- 1st arrow: monetary easing from the Bank of Japan
+- 2nd arrow: fiscal stimulus through government spending
+- 3rd arrow: structural reforms
+
+Abenomics appears to have huge impact on Japan's economy in nominal terms, take the "1st arrow" as example, M1 money supply is doubled since 2012:
+#image("atts/m1.png")
+
+#image("atts/exchange_rate.png")
+
+At the same time, the YEN/USD exchange rate is also depreciated by half.
+
+So, roughly speaking, the Abe's 1st arrow - monetary policy reform didn't have impact in the real asset market if we consider change in exchange rate in the long run. This could be explained by the concept of neutrality of money.
+
+The 2nd arrow - fiscal stimulus and 3rd arrow - structural reforms actually shows little impact on real GDP, the CAGR between 2012 to 2019 (before COVID hits) is only $0.30%$, it's lower than Koizumi's adminitration and even lower than the 25 years CAGR ($0.44%$).
+
+And covid hits in 2019, real GDP shrinks by $-0.40%$ in 2019 and $-4.28%$ in 2020, and still yet to recover to the peak in 2018.
+
+Overall, through out the 25 years period, the factors that has big impact(unfortunately all negative impact) on Japan's real GDP growth are external factors:
+- Asian finacial crisis
+- Global financial crisis
+- Covid-19
+
+(Tōhoku earthquake may also be considered as "external")
+
+The administrations has tried hard on various strategies in the past few decade, including drastic ones like negative interest rate all seems have limited if not no impact on real GDP growth.
+
+The only aspect of policy appear to work is structural reforms.
+
+== Structural Reform
+
+
+
+
 monetary & fiscal has very limited effect, and with danger
 domestic market size
   - must compete global
@@ -93,19 +135,10 @@ domestic market size
 Japanese domainated US market
 China - factory of the world
 
-And the greatest hit was on 2008~2009 Global Financial crisis peroid. Japan's minister at the period - Tarō Asō stats that:
-
-"The greatest concern right now is the economy." "America is facing a financial crisis ... we must not allow that to bring us down as well." in 2008.
 
 How to find market, large global market with high potential
 
-
-
-The rise of Yukio Hatoyama took over Japanese.
-
-The Japanese government has tried various strategies in the past few decades, and all doesn't seems to have any impact.
-
-Japan is an advance economy that has been through industrilization. Assuming Japan does 
+Japan is an advance economy that has been through industrilization. Assuming Japan does
 
 Property market
 
@@ -115,19 +148,9 @@ Property market
 
 After Shinzo Abe become prime minister for the 2nd time since Dec 2012, he become the prime minister with longest terms and drive long standing economic reform known as Abenomics or Abe's three arrow:
 
-- 1st arrow: monetary easing from the Bank of Japan
-- 2nd arrow: fiscal stimulus through government spending
-- 3rd arrow: structural reforms
 
-Abenomics:
-- must be coming from global market
-- Market face competition
-
-Credit crunch AT deleveraging occurred since 1999, and should be obersed from the private debt size to domestic credit to private sector as % of GDP @domestic_private_debt :
 
 #image("atts/domestic_credit_private_sector.png")
-
-Abenomics 
 
 
 Dispite Abenomics have huge impact on above areas, but it has very limited, if not no impact on the most important issue: real growth.
@@ -139,7 +162,7 @@ Structural reforms may works, but in the case of Japan, it's much more difficult
 
 Structural reforms would help low income countries to become middle income countries via industrialization. It may also help middle income coutries to get aways from "middle income trap" by moving from low end manufacturing to mid & high ends or to service sectors and become advanced economy.
 
-Japan had become advanced economy since early 90s. The structal reforms Japan needs it something very different 
+Japan had become advanced economy since early 90s. The structal reforms Japan needs it something very different
 
 Most of the countries with high GDP per capita measured in PPP have a small population, taking Norway are Singapore as example, their are able to obtain high economy growth via global investment by sovereign fund, but they both only have a population of 5+ millions. Their strategy will not work in Japan which has a population of 125 millions.
 
@@ -170,7 +193,7 @@ Smart phones and automobiles are just two examples. In order for countries like 
 
 Altought Japanese firms does well in all these industries, but they are seldom the top 1 that could gain the most profit, i.e. contribute to the country's growth by boosting TFP.
 
-“Some people say, "Give the customers what they want." But that's not my approach. Our job is to figure out what they're going to want before they do. I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them. That's why I never rely on market research. Our task is to read things that are not yet on the page.”  
+“Some people say, "Give the customers what they want." But that's not my approach. Our job is to figure out what they're going to want before they do. I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them. That's why I never rely on market research. Our task is to read things that are not yet on the page.”
 ― Steve Jobs
 
 
@@ -211,7 +234,7 @@ Issue on poverty and inequality may be the concerns of ordinary people, and they
 
 = Inequality
 
-Unlike data related to growth, Japan has very limited official data about economy inequality. As for the most significant index about inequality, OCED only have one data sample on Japan in 2013 of 0.334 @oecd_gini. 
+Unlike data related to growth, Japan has very limited official data about economy inequality. As for the most significant index about inequality, OCED only have one data sample on Japan in 2013 of 0.334 @oecd_gini.
 
 #image("atts/gini_trend.png")
 #image("atts/gini_age.png")
@@ -235,7 +258,7 @@ This could be due to varies reason, includes but not limited of female Japanese 
 
 Ensuring females works with equal pay to man, not only reduce gender inequality in Japan, but will also relief it from reallying on new foeign workers, which may bring cultural shocks to the society.
 
-Restructing of wage systems, may also have impact on income inequality. Moving to . This is a trade off, when doing right, 
+Restructing of wage systems, may also have impact on income inequality. Moving to . This is a trade off, when doing right,
 
 buffect
 
@@ -266,7 +289,7 @@ And more importantly, keeping desired CPI of 2% will have more critical impact o
 
 The low and even negative interest rate and yeild curve control has big impact on Japan's exchange rate, yen has depreciated by *100%* against USD since 2012:
 
-#image("atts/exchange_rate.png")
+
 
 And recent increase of interest rate in US will driving yen's depreciation further, yen/usd exchange rate follows 10y yield gap between US / Japan:
 #image("atts/10yyield_gap.png")
@@ -294,9 +317,9 @@ This result is consistent with continueous increasement of Japanese government's
 #image("atts/welfare_budget.png")
 
 
-Size of domestic market, it's only 
+Size of domestic market, it's only
 
-Varies within a very small scale, 
+Varies within a very small scale,
 
 #image("atts/inflation.png")
 
@@ -311,7 +334,7 @@ Can Japan grabs partner with US companies reforce it's position in high-end manu
 
 
 
-Sony 
+Sony
 
 Work Style Reform
 
