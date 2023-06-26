@@ -108,143 +108,120 @@ At the same time, the YEN/USD exchange rate is also depreciated by half.
 
 So, roughly speaking, the Abe's 1st arrow - monetary policy reform didn't have impact in the real asset market if we consider change in exchange rate in the long run. This could be explained by the concept of neutrality of money.
 
-The 2nd arrow - fiscal stimulus and 3rd arrow - structural reforms actually shows little impact on real GDP, the CAGR between 2012 to 2019 (before COVID hits) is only $0.30%$, it's lower than Koizumi's adminitration and even lower than the 25 years CAGR ($0.44%$).
+The 2nd arrow - fiscal stimulus also appears to have big impact, if we look at private sector credit:
+
+#image("atts/domestic_credit_private_sector.png")
+
+The private sector credit had been through "deleveraging" after reaching the peak in 2018, and re-leveraging since 2012. Abenomics seems to be taking effect.
+
+But if we look at the overall growth of real GDP under Abenomics, the CAGR between 2012 to 2019 (before COVID hits) is only $0.30%$, lower than Koizumi's adminitration and even lower than the 25 years CAGR ($0.44%$).
 
 And covid hits in 2019, real GDP shrinks by $-0.40%$ in 2019 and $-4.28%$ in 2020, and still yet to recover to the peak in 2018.
 
-Overall, through out the 25 years period, the factors that has big impact(unfortunately all negative impact) on Japan's real GDP growth are external factors:
+Overall, through out the 25 years period, the factors that has big impact(unfortunately all are negative impacts) on Japan's real GDP growth are external factors:
 - Asian finacial crisis
 - Global financial crisis
 - Covid-19
 
 (Tōhoku earthquake may also be considered as "external")
 
-The administrations has tried hard on various strategies in the past few decade, including drastic ones like negative interest rate all seems have limited if not no impact on real GDP growth.
+The administrations has tried hard on various strategies in the past few decade, including drastic ones like negative interest rate, but all seems have limited if not no impact on real GDP growth.
 
-The only aspect of policy appear to work is structural reforms.
+The only aspect of policy appear to work is structural reforms, which Koizumi's "big-bone" policy shown, and the 3rd arrow of Abenomics could also be viewed continuance of the "big-bone".
 
 == Structural Reform
 
+Structural reforms are believed to have have big impact on countries' growth:
+- Industrialization, build up industries like manufacturing help low-income countries to become middle-income
+- Moving away from low end manufacturing to mid & high ends or to service sectors help middle income countries to escape from "middle income trap" and become advanced economy.
 
+Japan had become moderately developed country (GDP per capita about 30K~40K PPP) in early 90s. The structural reforms Japan needs is something very different.
 
-
-monetary & fiscal has very limited effect, and with danger
-domestic market size
-  - must compete global
-
-Japanese domainated US market
-China - factory of the world
-
-
-How to find market, large global market with high potential
-
-Japan is an advance economy that has been through industrilization. Assuming Japan does
-
-Property market
-
-- norway foreign investment: 5.4 million 2021
-
-
-
-After Shinzo Abe become prime minister for the 2nd time since Dec 2012, he become the prime minister with longest terms and drive long standing economic reform known as Abenomics or Abe's three arrow:
-
-
-
-#image("atts/domestic_credit_private_sector.png")
-
-
-Dispite Abenomics have huge impact on above areas, but it has very limited, if not no impact on the most important issue: real growth.
-
-This seems to be a living proof of the neutrality of money: monetary policy or even fiscal policy has no impact on real sector growth when a economy has reached its steady-state equilibrium.
-
-== Structural reforms
-Structural reforms may works, but in the case of Japan, it's much more difficult.
-
-Structural reforms would help low income countries to become middle income countries via industrialization. It may also help middle income coutries to get aways from "middle income trap" by moving from low end manufacturing to mid & high ends or to service sectors and become advanced economy.
-
-Japan had become advanced economy since early 90s. The structal reforms Japan needs it something very different
+We could survey on countries that successfuly grow to GDP per capita 60K PPP or above, and this level of GDP per capita will make them into the top rank globally.
 
 Most of the countries with high GDP per capita measured in PPP have a small population, taking Norway are Singapore as example, their are able to obtain high economy growth via global investment by sovereign fund, but they both only have a population of 5+ millions. Their strategy will not work in Japan which has a population of 125 millions.
 
-Or, Japan may adapt certains stragies to boost GDP per capita in its large cities, it has a lot more population living rural area to cover.
+Or, Japan may have already adapted certains stragies to boost GDP per capita in its large cities, but it has a lot more population living rural area to cover.
 
-"You said that our per capita GDP is higher than Japan but that is because you have many outlining rural areas of Japan which are not the same as Tokyo. If you compare Singapore with Tokyo or Osaka, I do not think our per capita GDP is higher than the per capita in Tokyo (population: 14 millions) or Osaka(2.691 millions)." - Lee Hsien Loon @pm_lee
+Prime Miniter of Singapore Lee Hsien Loon stated it frankly @pm_lee :
 
-Each growth strategy will has its scaling limit. Assuming global investment could works to bring 5 millions population to 60K GDP, it will require the global market to be least 10 times larger, and such global market simply doesn't exist.
+"You said that our per capita GDP is higher than Japan but that is because you have many outlining rural areas of Japan which are not the same as Tokyo. If you compare Singapore with Tokyo or Osaka, I do not think our per capita GDP is higher than the per capita in Tokyo (population: 14 millions) or Osaka(2.691 millions)."
 
-The country with large population that successful overcome "moderately developed country" will be United Stats, it's a country with gdp per capita of 69,287 (PPP at us_ppp ) and has a population 332 millions.
+Each growth strategy will has its scaling limit. Even we assume making global investment could bring 5 millions population to 60K GDP per capita, it will require the global market to be least 10 times larger, and such global market simply doesn't exist.
 
-Mobile phone industry
-automobile
+The country with large population that successful overcome "moderately developed country" will be United State, it's a country with GDP per capita of 69,287 measured in PPP @us_ppp and has a population 332 millions.
 
-The traits of global competition is sometimes "winner takes all" (or majority of the profit).
+The US economy becomes the biggest economy in the world by deeply integrated with global economy, globalization that build up global supply chain and enable US products to compete in all over the world. 
 
-Taking smart phone market as example, Apple's iPhone dominates this market by taking 85% of the profit. Companies needs innovation to create distictive products in order to grab the most profit, or growth.
+And one traits of global competition is sometimes "winner takes all" (or majority of the profit).
+
+Taking smart phone market as example, Apple's iPhone dominates this market by taking 85% of the profit @iphone_share .
 
 Automobile industry is another example, being pioneered in electronic vhecles, Tesla is now the biggest automobile companies in the world. Japan's toyota ranks number two, but Tesla's market cap is bigger than the number 2-9 automobiles combined.
 
 #image("atts/mobile_market_cap.png")
 
-Without surprise, both Apple & Tesla are US companies. It's innovative companies like these drives the growth of US economy.
+Both Apple & Tesla are US companies. It's innovative companies like these gives tremedeous growth, and their growth combined drives the overall growth of a country.
 
-If Japan aims to have growths similar or even higher than US, its companies must beats US firms in the global competition. Or put it in another words, can Japanese companies like Sony create innovative smart phones like Apple, and beats Apple in competition? Can Toyota create EVs or hydrogen powered car that beats Tesla?
+Companies needs innovation to create distictive products that grab the most profit - generate large growth.
 
-Smart phones and automobiles are just two examples. In order for countries like Japan & US with population larger than 100m, they will need to be leading in many industries with vast global market in the world. That includes entertainment, semiconductor, internet etc.
+If Japan aims to have growths similar or even higher than US, it will comes down to the question: Can Japanese companies must beats US firms in the global competition. Or the be more specific to above example:
+
+Can Sony create innovative smart phones better than Apple, and beats Apple in competition? Can Toyota create EVs or hydrogen powered car that beats Tesla?
+
+In order for countries like Japan & US with population larger than 100m, they will need to be leading in many industries with vast global market in the world. That includes entertainment, semiconductor, internet etc.
 
 Altought Japanese firms does well in all these industries, but they are seldom the top 1 that could gain the most profit, i.e. contribute to the country's growth by boosting TFP.
 
-“Some people say, "Give the customers what they want." But that's not my approach. Our job is to figure out what they're going to want before they do. I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them. That's why I never rely on market research. Our task is to read things that are not yet on the page.”
-― Steve Jobs
-
-
-== Labour
-
-Japan has a aging society, and it's high standard of people's well-being also make it a country with one of the longest life expetancy. It will need to have low-wage foreign workers to meets its econmonic needs, and also welcome high-wage foreign professional to boost TFA.
-
-Both Apple & Tesla have engineers & scientist from all over the world.
-
-Tradictionally, Japan is very converse on accepting foreign workers. But there are sign of changing. [BIB]
-
-==== Innovation
+== Innovation
 
 Japan didn't make it into top 10 in global innovation ranking:
 
 #image("atts/innovation_rank.png")
 
-== Wage structures
+This could due to various number of reasons.
 
-Traditionally, Japanese firms follows need Nenko System -  seniority-wage system, which awards only seniority other than contribution not to mentions innovations.
-
-This culture doesn't provide economic incentives for innovation.
-
-There is another typical Japanese culture that may have impact on limiting growth: Craftmanship.
-
-Japanese admiring of craftmanship may be represented in the documentary Jiro Dreams of Sushi @sushi :
-
+The typical Japanese culture famous world wide is Craftmanship. And it's best be represented in the documentary Jiro Dreams of Sushi @sushi :
 "After ten years they let you cook the eggs…"
 
-On one hands, such craftmaneship culture may forge Japanese's culture or even identity, but it could hardly be related to economy growth, especially high growth after being an advance economy.
+Skilled worker - chef spending decades perfecting cooking skills could make the best sushi in the world, but it's not the product that could be sold to mass global market.
 
+Another possible reason could be lack of economy incentive for innovation.
 
-#image("atts/wage_growth.png")
+Traditionally, Japanese firms follows Nenko System @nenko - seniority-wage system, while this system keep Japanese firms's labour turnover rate low, it only awards seniority of employee,  not contribution not to mentions innovation.
 
-About are just my anaylise of potential ways of getting high growth of Japanese economy. But, it's not nessesary the only way, but gaining high growth may not be the only goals of a country. It may be politician's election caimpaign goals, but not nessarry the needs of ordinary people.
+There are signs for change in culture and wage system, but the traditional culture and system may explain the existing lack of innovation.
+
+== Labour
+
+Labour is another important aspect related to growth. Having a constant low birth rate (altough higher than other Asian neighbours) and long life expectancy make Japan an aging society, and it's a problem that have almost no solution.
+
+#image("atts/birth_rate.png")
+
+It implies that Japan will not be able to gain growth from growth labour. Labour may even decline due to short annual working hours, which may be due to change in working culture. This is a aspect that may not help drive growth, but the one pulling growth down.
+
+Japan will need to have low-wage foreign workers to meets its econmonic needs, and also welcome high-wage foreign professional to boost TFA. This problem may be eased by having importing foeign worker and firms are adopting @migrant_workers .
+
+The diversitying work force may help to drive innovation as well. Both Apple & Tesla have engineers & scientist from all over the world.
+
+== Not only growth
+
+About are just my anaylise of potential ways of getting high growth for Japanese economy. But, it's not nessesary the only way, further more gaining high growth may not be the only goals of a country. It may be politician's election caimpaign goals, but not nessarry the needs of ordinary people.
 
 Issue on poverty and inequality may be the concerns of ordinary people, and they may also related to growth in both positive and negative way.
 
-= Inequality
+== Inequality
 
 Unlike data related to growth, Japan has very limited official data about economy inequality. As for the most significant index about inequality, OCED only have one data sample on Japan in 2013 of 0.334 @oecd_gini.
 
+The Ministry of Health, Labour and Welfare of Japan has stats on gini co-efficient once in 2017 annual report @welfare_2017
 #image("atts/gini_trend.png")
 #image("atts/gini_age.png")
 
-AT welfare_2017
+In the report, it stated:
 - Equivalent income gap (Gini coefficient) of all people tends to expand consistently in terms of initial income due to the aging population and other factors. The redistributed income gap has narrowed after peaking in 1998. Income redistribution helps prevent the initial income gap from widening.
 
-Not so bad comparing to other advance economy like UK or US.
-
-This is may due to the tradition of adapting Nenko System for wage. But, if we look at the wages data more closerly, its shows large gender inequality:
+Not so bad comparing to other advance economy like UK or US. This is may due to the tradition of firms adapting Nenko System for wage. But, if we look at the wages data more closerly, its shows large gender inequality:
 
 #image("gender_wage.png")
 
@@ -258,95 +235,59 @@ This could be due to varies reason, includes but not limited of female Japanese 
 
 Ensuring females works with equal pay to man, not only reduce gender inequality in Japan, but will also relief it from reallying on new foeign workers, which may bring cultural shocks to the society.
 
-Restructing of wage systems, may also have impact on income inequality. Moving to . This is a trade off, when doing right,
-
-buffect
+Restructing of wage systems, may also have impact on income inequality both positively and negatively:
+- Higher wage to young workers with bigger contribution will narrow the income gap between young and old generation
+- Futher increase of wage to high incomer will create bigger gap to the low incomer
 
 Income inequality is only one aspect of inequality, wealth inequality sometimes may have more impact in society.
 
 One effect of Abenomics is the booming of stock market:
 #image("atts/nikkei_225_index.png")
 
-The nikkei 225 index tripled since 2012, when we have shown the real GDP and productivity hardly increase. This will implies potential big changes in wealth inequality: people invested in stock market or listed company's share holders may have big increase in wealth, these are usually people that are ready wealthy. And when people didn't invest in stock market are most likely to be the group having less saving, i.e. wealth.
+The nikkei 225 index tripled since 2012, while the real GDP and productivity hardly increase. This will implies potential big changes in wealth inequality: people invested in stock market or listed company's share holders may have big increase in wealth, these are usually people that are ready wealthy. And when people didn't invest in stock market are most likely to be the group having less saving, i.e. wealth.
 
-The stock market is functioned effectively, may have the impact to reduce wealth inequality.
+The stock market if functioned effectively, i.e. allow public listed firms to share profit to wider public via divident, may have the impact to reduce wealth inequality.
 
-Large Japanese firms are notourious on profit sharing, their low rate of dividence has been the reason that buffect refused to invest in Japanese companies.
+Japanese firms are used to be stingy about profit sharing, Warren Buffett once describe Japanese firm as "low return on equity and the indifference of Japanese company managements to shareholders" in 1998 @low_return .
 
-But recently this has changed, all top 5 relalters agreed to increase dividends and attrach buffect's investment.
+Again, this tradition has recently changed, Five Japanese Trading Houses agreed to increase dividends and attrach buffect's investment @buffett .
 
 In terms of policy, Singapore governments allowing singaporean use CPF for investment(and buy property, another forms of investment), and it's tax free.
 
-But promotioning investment could be a double sided sword, it may decrease wealth inequality, but it may also increase as it's a leveage tools, and it may crease bubbles.
+But promotioning investment could be a double sided sword, it may decrease wealth inequality, but it may also increase as it's a leveage tools, and it may create bubbles.
 
 A more direct way for large japanese firms could do is to increase its worker's wages.
 
-And there has been sign, uniqlo claims to give its employee 40% increasement @uniqlo
+#image("atts/wage_growth.png")
 
-This would have huge impact on Japanese growth as welll, when people's income increases, their comsumption will also increase, and if CPI is kept at the benight rate of 2%, Japanese's enomony will finally gets into benight cycles.
+Japanese worker's wage barely increase in the pass decades. And again, it has started to change siginificantly, for example uniqlo claims to give its employee 40% increasement @uniqlo .
 
-And more importantly, keeping desired CPI of 2% will have more critical impact on Japan's economy, it will allows Japan to move aways from monetary policies introduced by Abenomic like quantitive easing, negative interest rate and yeild curve control etc.
+A more flexible wage system & profit sharing structure may decrease income & wealth inequality, and incentivise workers and even investors like Buffett. Increase in foreign investment will help to drive economy growth as well.
 
-The low and even negative interest rate and yeild curve control has big impact on Japan's exchange rate, yen has depreciated by *100%* against USD since 2012:
+More importantly when people's income increases, their comsumption will also increase, and if CPI is kept at the desired rate of 2%, Japanese's enomony will finally gets into virtuous circles.
 
+Having a sustainable 2% CPI will allows Japan to move aways from monetary policies introduced by Abenomic like quantitive easing, negative interest rate and yeild curve control etc.
 
-
-And recent increase of interest rate in US will driving yen's depreciation further, yen/usd exchange rate follows 10y yield gap between US / Japan:
+The low and even negative interest rate and yeild curve control has big impact on Japan's exchange rate in the short run. The recent increase of interest rate in US make YEN depreciated, The YEN/USD exchange rate follows closely to the 10y yield gap between US / Japan in the short run @yen_project :
 #image("atts/10yyield_gap.png")
 
+If Japan didn't have the monetary space to maintains its exchange rate, it will be its poor class will suffer the most if YEN keep depreciating.
 
-AT yen_project
+== Poverty
 
-If Japan didn't have the monetary space to maintains its exchange rate, it will be its poor class will suffer the most
-
-= Poverty
-
-The data related to poverty in Japan is very limited. Officially, Japan government defined poverty line as half the median of
-equivalent disposable income. But the Ministry of Health, Labour and Welfare only reported related number once in 2017 AT welfare_2017, claiming:
+The data related to poverty in Japan is also limited. Officially, Japan government defined poverty line as half the median of equivalent disposable income. But the Ministry of Health, Labour and Welfare only reported related statistics once in 2017 @welfare_2017, claiming:
 
 - The relative poverty rate of total population, working generation and children, which had respectively been showing upward trends, declined recently. Although the relative poverty rate for the elderly generation is higher than for other generations, it tends to decline.
 #image("atts/poverty_rate.png")
 
-The other number worth noting will be the number of homeless person in Japan. I would assuming homeless people in Japan to be the poorest class, or in absolute poverty. And according to Ministry of Health, Labour and Welfare stats, this number has been droping significantly throught the years @homeless :
+The other number worth noting will be the number of homeless person in Japan. I would assuming homeless people in Japan to be the most poor class, or in absolute poverty. And according to Ministry of Health, Labour and Welfare stats, this number has been droping significantly throught the years @homeless :
 #image("atts/homeless.png")
 
-Although people moving aways homeless - absolute poverty, their income may still be less than half of the median of equivalent disposable income, i.e. under official poverty line, I would still recognize it to be a big improvement in reducing provety by decreasing number of homeless person from 25000+ to below 4000 in 2022. AT homeless_2022.
+Although people moving aways homeless - absolute poverty, their income may still be less than half of the median of equivalent disposable income, i.e. under official poverty line, I would still recognize it to be a big improvement in reducing provety by decreasing number of homeless person from 25000+ to below 4000 in 2022 @homeless_2022 .
 
 This result is consistent with continueous increasement of Japanese government's welfare spending:
 
 #image("atts/welfare_budget.png")
-
-
-Size of domestic market, it's only
-
-Varies within a very small scale,
-
-#image("atts/inflation.png")
-
-
-Abenomics increase wealth inequality.
-
-
-
-US-China relationship
-
-Can Japan grabs partner with US companies reforce it's position in high-end manufacturing
-
-
-
-Sony
-
-Work Style Reform
-
-
-
-
-== Propose
-- FDI
-#image("atts/fdi.png")
-- Labour
-- Inequality
-- Innovation
 
 
 == Conclusion
