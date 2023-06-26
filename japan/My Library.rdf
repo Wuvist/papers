@@ -7,7 +7,7 @@
  xmlns:link="http://purl.org/rss/1.0/modules/link/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
-    <bib:Article rdf:about="#item_7">
+    <bib:Article rdf:about="#item_1">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal></bib:Journal>
@@ -28,18 +28,16 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_6"/>
+        <link:link rdf:resource="#item_2"/>
         <dc:title>Does Japan Save Too Much? Or Do Other Major Countries Save Too Little?</dc:title>
         <dc:date>1999</dc:date>
         <z:language>en</z:language>
         <z:libraryCatalog>Zotero</z:libraryCatalog>
         <dc:description>Citation Key: capital_share_of_y</dc:description>
     </bib:Article>
-    <z:Attachment rdf:about="#item_6">
+    <z:Attachment rdf:about="#item_2">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\japan\Does Japan Save Too Much.pdf"/>
         <dc:title>Does Japan Save Too Much.pdf</dc:title>
-        <z:linkMode>2</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www.mhlw.go.jp/english/database/db-oh/index.html">
@@ -48,6 +46,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Outline of Health, Labour and Welfare Statistics</dc:title>
+        <dc:date>2023-06-24 13:19:48</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.mhlw.go.jp/english/database/db-oh/index.html</rdf:value>
@@ -62,6 +61,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Nikkei 225 Index - 67 Year Historical Chart</dc:title>
+        <dc:date>2023-06-24 13:54:22</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.macrotrends.net/2593/nikkei-225-index-historical-chart-data</rdf:value>
@@ -76,6 +76,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Domestic credit to private sector percentage of gdp - Japan</dc:title>
+        <dc:date>2023-06-24 13:56:41</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://data.worldbank.org/indicator/FS.AST.PRVT.GD.ZS?end=2021&amp;locations=JP&amp;start=1996</rdf:value>
@@ -90,6 +91,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>PMO - PM Lee Hsien Loong's Q&amp;A session at the 27th International Conference on the Future of Asia</dc:title>
+        <dc:date>2023-06-24 14:05:31</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Q-and-A-session-at-the-27th-International-Conference-on-the-Future-of-Asia</rdf:value>
@@ -104,6 +106,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Honda ceo says Toyota's strategy to pursue hydrogen combustion 'doesn't seem feasible' - Electrek</dc:title>
+        <dc:date>2023-06-24 14:14:43</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://electrek.co/2022/01/20/honda-ceo-says-toyotas-strategy-to-pursue-hydrogen-cars-doesnt-seem-feasible/</rdf:value>
@@ -118,6 +121,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Jiro Dreams of Sushi - Starring Jiro Ono and Yoshikazu Ono - A Magnolia Pictures Film</dc:title>
+        <dc:date>2023-06-24 14:16:32</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.magpictures.com/jirodreamsofsushi/</rdf:value>
@@ -156,7 +160,8 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2023-06-24 14:26:03</dcterms:dateSubmitted>
-        <dc:description>Citation Key: nenko</dc:description>
+        <dc:description>Number: 1
+Citation Key: nenko</dc:description>
         <bib:pages>27-57</bib:pages>
     </bib:Article>
     <bib:Journal rdf:about="urn:issn:1361-374X,%201468-0106">
@@ -167,7 +172,7 @@
         <dcterms:alternative>Pacific Economic Rev</dcterms:alternative>
         <dc:identifier>ISSN 1361-374X, 1468-0106</dc:identifier>
     </bib:Journal>
-    <bib:Article rdf:about="#item_16">
+    <bib:Article rdf:about="#item_10">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal></bib:Journal>
@@ -188,17 +193,15 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_15"/>
+        <link:link rdf:resource="#item_11"/>
         <dc:title>cesifo Working Paper no. 9821</dc:title>
         <z:language>en</z:language>
         <z:libraryCatalog>Zotero</z:libraryCatalog>
         <dc:description>Citation Key: yen_inflation</dc:description>
     </bib:Article>
-    <z:Attachment rdf:about="#item_15">
+    <z:Attachment rdf:about="#item_11">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\japan\cesifo1_wp9821_Japan's Low Inflation Conundrum.pdf"/>
         <dc:title>cesifo1_wp9821_Japan's Low Inflation Conundrum.pdf</dc:title>
-        <z:linkMode>2</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://www8.cao.go.jp/shoushi/shoushika/whitepaper/measures/english/index-wh.html">
@@ -207,6 +210,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Annual Report on the Declining Birthrate - Cabinet Office Home Page</dc:title>
+        <dc:date>2023-06-24 14:51:56</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www8.cao.go.jp/shoushi/shoushika/whitepaper/measures/english/index-wh.html</rdf:value>
@@ -221,6 +225,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Uniqlo owner gives Japan Inc a jolt with 40 percent wage hike - Reuters</dc:title>
+        <dc:date>2023-06-24 14:59:55</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.reuters.com/business/retail-consumer/japans-fast-retailing-says-it-will-raise-wages-much-40-2023-01-11/</rdf:value>
@@ -235,6 +240,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Inequality - Income inequality - OECD Data</dc:title>
+        <dc:date>2023-06-24 15:03:45</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://data.oecd.org/inequality/income-inequality.htm</rdf:value>
@@ -249,6 +255,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Government Survey Shows Number of Homeless People in Japan at New Record Low  Nippon.com</dc:title>
+        <dc:date>2023-06-24 15:05:38</dc:date>
         <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://www.nippon.com/en/japan-data/h01323/</rdf:value>
@@ -263,6 +270,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Quarterly Estimates of Net Capital Stocks of Fixed Assets : Economic and Social Research Institute - Cabinet Office Home Page</dc:title>
+        <dc:date>2023-06-25 04:27:24</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.esri.cao.go.jp/en/sna/stock/stock_top.html</rdf:value>
@@ -277,6 +285,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Quarterly Estimates of gdp: Economic and Social Research Institute - Cabinet Office</dc:title>
+        <dc:date>2023-06-25 04:28:11</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.esri.cao.go.jp/en/sna/sokuhou/sokuhou_top.html</rdf:value>
@@ -291,6 +300,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Statistics Bureau Home Page/Labour Force Survey/Historical data</dc:title>
+        <dc:date>2023-06-25 04:40:39</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.stat.go.jp/english/data/roudou/lngindex.html</rdf:value>
@@ -305,6 +315,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Average annual hours actually worked per worker</dc:title>
+        <dc:date>2023-06-25 04:42:48</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://stats.oecd.org/index.aspx?DataSetCode=ANHRS#</rdf:value>
@@ -319,6 +330,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Warren Buffett: why he bought 5 Japanese trading houses</dc:title>
+        <dc:date>2023-06-25 06:46:46</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.cnbc.com/2023/04/12/warren-buffett-why-he-bought-5-japanese-trading-houses.html</rdf:value>
@@ -347,6 +359,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>GDP per capita (current US$) - Japan | Data</dc:title>
+        <dc:date>2023-06-25 07:48:57</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2021&amp;locations=JP&amp;start=1990</rdf:value>
@@ -361,6 +374,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>GDP per capita, PPP (current international $) - Japan</dc:title>
+        <dc:date>2023-06-25 07:51:17</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?end=2021&amp;locations=JP&amp;start=1997</rdf:value>
@@ -375,6 +389,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Japan's Statistics Scandal: The Need for New Approaches Nippon.com</dc:title>
+        <dc:date>2023-06-25 08:03:11</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.nippon.com/en/in-depth/d00475/japan%E2%80%99s-statistics-scandal-the-need-for-new-approaches.html</rdf:value>
@@ -396,7 +411,7 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_31"/>
+        <link:link rdf:resource="#item_26"/>
         <dc:title>Deleveraging and Monetary Policy: Japan Since the 1990s and the United States Since 2007</dc:title>
         <dc:date>2012-08-01</dc:date>
         <z:language>en</z:language>
@@ -408,7 +423,8 @@
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2023-06-25 08:23:44</dcterms:dateSubmitted>
-        <dc:description>Citation Key: deleveraging</dc:description>
+        <dc:description>Number: 3
+Citation Key: deleveraging</dc:description>
         <bib:pages>177-202</bib:pages>
     </bib:Article>
     <bib:Journal rdf:about="urn:issn:0895-3309">
@@ -419,11 +435,9 @@
         <dcterms:alternative>Journal of Economic Perspectives</dcterms:alternative>
         <dc:identifier>ISSN 0895-3309</dc:identifier>
     </bib:Journal>
-    <z:Attachment rdf:about="#item_31">
+    <z:Attachment rdf:about="#item_26">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\japan\Deleveraging and Monetary Policy jep.26.3.177.pdf"/>
         <dc:title>Deleveraging and Monetary Policy jep.26.3.177.pdf</dc:title>
-        <z:linkMode>2</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
     <bib:Document rdf:about="https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=US">
@@ -432,6 +446,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>GDP per capita, PPP (current international $) - United States</dc:title>
+        <dc:date>2023-06-25 09:15:22</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=US</rdf:value>
@@ -446,6 +461,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>iPhone Grabs Record Smartphone Profit Share of 85% for Apple (AAPL) - Bloomberg</dc:title>
+        <dc:date>2023-06-25 10:40:03</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.bloomberg.com/news/articles/2023-02-03/iphone-grabs-record-smartphone-profit-share-of-85-for-apple?leadSource=uverify%20wall</rdf:value>
@@ -460,6 +476,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>Annual Health, Labour and Welfare Report 2017</dc:title>
+        <dc:date>2023-06-25 14:13:07</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.mhlw.go.jp/english/wp/wp-hw11/index.html</rdf:value>
@@ -474,6 +491,7 @@
            <z:Website></z:Website>
         </dcterms:isPartOf>
         <dc:title>ホームレスの実態に関する全国調査（生活実態調査）結果について｜厚生労働省</dc:title>
+        <dc:date>2023-06-25 15:05:01</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.mhlw.go.jp/stf/newpage_25330.html</rdf:value>
@@ -481,5 +499,158 @@
         </dc:identifier>
         <dcterms:dateSubmitted>2023-06-25 15:05:01</dcterms:dateSubmitted>
         <dc:description>Citation Key: homeless_2022</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S1094202501901498">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1094-2025"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayashi</foaf:surname>
+                        <foaf:givenName>Fumio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prescott</foaf:surname>
+                        <foaf:givenName>Edward C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_32"/>
+        <link:link rdf:resource="#item_33"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>growth model</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Japan</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>TFP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>workweek</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The 1990s in Japan: A Lost Decade</dc:title>
+        <dcterms:abstract>This paper examines the Japanese economy in the 1990s, a decade of economic stagnation. We find that the problem is not a breakdown of the financial system, as corporations large and small were able to find financing for investments. There is no evidence of profitable investment opportunities not being exploited due to lack of access to capital markets. The problem then and today is a low productivity growth rate. Growth theory, treating TFP as exogenous, accounts well for the Japanese lost decade of growth. We think that research effort should be focused on what policy changes will allow productivity to again grow rapidly. Journal of Economic Literature Classification Numbers: E2, E13, O4, O5.</dcterms:abstract>
+        <dc:date>2002-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The 1990s in Japan</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1094202501901498</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 02:27:16</dcterms:dateSubmitted>
+        <dc:description>Citation Key: lost_decade</dc:description>
+        <bib:pages>206-235</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1094-2025">
+        <prism:volume>5</prism:volume>
+        <dc:title>Review of Economic Dynamics</dc:title>
+        <dc:identifier>DOI 10.1006/redy.2001.0149</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Review of Economic Dynamics</dcterms:alternative>
+        <dc:identifier>ISSN 1094-2025</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_32">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S1094202501901498?via%3Dihub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 02:27:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://researchdatabase.minneapolisfed.org/downloads/8623hx80d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 02:27:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://japantoday.com/category/politics/aso-set-to-win-ldp-presidential-race">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Aso elected ldp president - Japan Today</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://japantoday.com/category/politics/aso-set-to-win-ldp-presidential-race</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 03:49:41</dcterms:dateSubmitted>
+        <dc:description>Citation Key: aso</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.bbc.com/news/10211314">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Japanese PM Yukio Hatoyama resigns amid Okinawa row - BBC News</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bbc.com/news/10211314</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 04:13:19</dcterms:dateSubmitted>
+        <dc:description>Citation Key: break_promise</dc:description>
+    </bib:Document>
+    <rdf:Description rdf:about="https://en.wikipedia.org/w/index.php?title=2011_T%C5%8Dhoku_earthquake_and_tsunami&amp;oldid=1161904374">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipedia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_38"/>
+        <dc:title>2011 Tōhoku earthquake and tsunami</dc:title>
+        <dc:date>2023-06-25T19:13:46Z</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/w/index.php?title=2011_T%C5%8Dhoku_earthquake_and_tsunami&amp;oldid=1161904374</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 04:17:03</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Citation Key: earthquake</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_38">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 04:17:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://web.archive.org/web/20171118081548/http://lexicon.ft.com/Term?term=abenomics">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Abenomics Definition from Financial Times Lexicon</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://web.archive.org/web/20171118081548/http://lexicon.ft.com/Term?term=abenomics</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 04:21:19</dcterms:dateSubmitted>
+        <dc:description>Citation Key: abenomics</dc:description>
     </bib:Document>
 </rdf:RDF>
