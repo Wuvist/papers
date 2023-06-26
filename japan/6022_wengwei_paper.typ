@@ -1,5 +1,5 @@
 #set page(
-  paper: "us-letter",
+  paper: "a4",
   header: align(right)[
     Term Paper for ECON 6022
   ],
@@ -195,6 +195,27 @@ Traditionally, Japanese firms follows Nenko System @nenko - seniority-wage syste
 
 There are signs for change in culture and wage system, but the traditional culture and system may explain the existing lack of innovation.
 
+== China
+
+It's not only that Japan not able to compete with US on innovation. Manufacturing sector in Japan once occupied 23.5% of GDP in 1994 has drop to 20% in 2020 @manufacturing , while China becoming the factory of the world.
+
+#image("atts/fortune_500.jpeg")
+
+There is about 300 companies from US, Japan and China listed in Fortune 500 in both 2000 and 2022, but the number of Japanese companies shrunk significantly while the number of Chinese firms increase dramatically @fortune_500 .
+
+The US & China relationship has been deteriorating since the "Trade War" in 2018, and there are worries of a "decoupling". These may provide opportunities to Japanese firms for high end manufacturing.
+
+Even taking the fact the it's the US firm - Apple pioneer with the innovative next generation computing device - Vision Pro, Apple is depending on Sony - a Japanese firm to supply the critical components @vision_pro. And it's unlikely that Apple will expand supply chain support in China due to the US & China relationship.
+
+Japan may need to ensure that it grabs this opportunities and boost high-end manufacturing with US. If it's South Korea or Vietnam and India took over opportunities from China, Japan will have more challenge for economy growth.
+
+== Steady State Equilibrium
+
+The domestic market of Japan may has already reached "steady-state" equilibrium - Japan has one of the lowest unemployment among OECD countries since 2014 @unemployment :
+#image("atts/unemployment_rate.png")
+
+Thus, its future growth will be relying heavily on global market. If this assumption is true, it would also explain why the factors impact Japan economy the most are external factors, and there is limited space for domestic policies. And, even when domestic policies done wrong, its didn't hurts the real GDP growth as well.
+
 == Labour
 
 Labour is another important aspect related to growth. Having a constant low birth rate (although higher than other Asian neighbors) and long life expectancy make Japan an aging society, and it's a problem that have almost no solution.
@@ -257,7 +278,7 @@ In terms of policy, Singapore governments allowing singaporean use CPF for inves
 
 But promoting investment could be a double sided sword, it may decrease wealth inequality, but it may also increase as it's a leveraging tools, and it may create bubbles.
 
-A more direct way for large japanese firms could do is to increase its worker's wages.
+A more direct way for large japanese firms could do is to just increase its worker's wage.
 
 #image("atts/wage_growth.png")
 
@@ -293,6 +314,6 @@ This result is consistent with continuous increment of Japanese government's wel
 
 == Conclusion
 
-Japan, as an advanced economy since early 1990s, the main binding constrain for further high growth will be on its ability to innovate, only world class innovation from Japanese firms allowing them to gain profits from massive global markets will give Japan high growth. In terms of domestic policy, government should spend more effort on issue on inequality and poverty. Having a more inclusive economy will not only solve issues on inequality and poverty, but will help in economy growth as well.
+Japan, as an advanced economy since early 1990s, the main binding constrain for further high growth will be on its ability to innovate, its domestic market may have reached "steady-state" equilibrium. The future growth will be depending on its share on the global market, and only world class innovation by Japanese firms will allowing them to gain huge profits from the massive global markets. In terms of domestic policy, government should spend more effort on issue on inequality and poverty. Having a more inclusive economy will not only solve issues on inequality and poverty, but will help in economy growth as well.
 
 #bibliography("japan_ref.bib")
