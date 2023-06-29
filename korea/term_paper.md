@@ -6,7 +6,7 @@ preferably in Asia, but NOT on Greece, Singapore, or the United States. The pape
 The goal of the paper is to show an ability to apply the topics covered in the course to a real-world economy, rather than simply provide descriptive information or a recounting of events.
 
 The project paper should provide a brief review of the structure of the government sector, including any important fiscal rules:
-* ten years of key economic data for the country’s public sector
+* ten years of key economic data for the country's public sector
 	* including data for the entire government sector and
 	* if available, data for the central government
 	* an assessment of the country’s fiscal (public debt) sustainability
