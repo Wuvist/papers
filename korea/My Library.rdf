@@ -1,0 +1,1309 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="#item_7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oyama</foaf:surname>
+                        <foaf:givenName>Tsuyoshi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yoshida</foaf:surname>
+                        <foaf:givenName>Kotaro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6"/>
+        <dc:title>Does Japan Save Too Much? Or Do Other Major Countries Save Too Little?</dc:title>
+        <dc:date>1999</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>Citation Key: capital_share_of_y</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\japan\Does Japan Save Too Much.pdf"/>
+        <dc:title>Does Japan Save Too Much.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.mhlw.go.jp/english/database/db-oh/index.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Outline of Health, Labour and Welfare Statistics</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mhlw.go.jp/english/database/db-oh/index.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 13:19:48</dcterms:dateSubmitted>
+        <dc:description>Citation Key: OHLW_stat_2021</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://data.worldbank.org/indicator/FS.AST.PRVT.GD.ZS?end=2021&amp;locations=JP&amp;start=1996">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Domestic credit to private sector percentage of gdp - Japan</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.worldbank.org/indicator/FS.AST.PRVT.GD.ZS?end=2021&amp;locations=JP&amp;start=1996</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 13:56:41</dcterms:dateSubmitted>
+        <dc:description>Citation Key: domestic_private_debt</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Q-and-A-session-at-the-27th-International-Conference-on-the-Future-of-Asia">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>PMO - PM Lee Hsien Loong's Q&amp;A session at the 27th International Conference on the Future of Asia</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Q-and-A-session-at-the-27th-International-Conference-on-the-Future-of-Asia</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 14:05:31</dcterms:dateSubmitted>
+        <dc:description>Citation Key: pm_lee</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://electrek.co/2022/01/20/honda-ceo-says-toyotas-strategy-to-pursue-hydrogen-cars-doesnt-seem-feasible/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Honda ceo says Toyota's strategy to pursue hydrogen combustion 'doesn't seem feasible' - Electrek</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://electrek.co/2022/01/20/honda-ceo-says-toyotas-strategy-to-pursue-hydrogen-cars-doesnt-seem-feasible/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 14:14:43</dcterms:dateSubmitted>
+        <dc:description>Citation Key: horda</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.magpictures.com/jirodreamsofsushi/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Jiro Dreams of Sushi - Starring Jiro Ono and Yoshikazu Ono - A Magnolia Pictures Film</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.magpictures.com/jirodreamsofsushi/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 14:16:32</dcterms:dateSubmitted>
+        <dc:description>Citation Key: sushi</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="#item_16">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schnabl</foaf:surname>
+                        <foaf:givenName>Gunther</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <dc:title>cesifo Working Paper no. 9821</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:description>Citation Key: yen_inflation</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\japan\cesifo1_wp9821_Japan's Low Inflation Conundrum.pdf"/>
+        <dc:title>cesifo1_wp9821_Japan's Low Inflation Conundrum.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www8.cao.go.jp/shoushi/shoushika/whitepaper/measures/english/index-wh.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Annual Report on the Declining Birthrate - Cabinet Office Home Page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www8.cao.go.jp/shoushi/shoushika/whitepaper/measures/english/index-wh.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 14:51:56</dcterms:dateSubmitted>
+        <dc:description>Citation Key: birth_rate</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://data.oecd.org/inequality/income-inequality.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Inequality - Income inequality - OECD Data</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.oecd.org/inequality/income-inequality.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 15:03:45</dcterms:dateSubmitted>
+        <dc:description>Citation Key: oecd_gini</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.nippon.com/en/japan-data/h01323/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Government Survey Shows Number of Homeless People in Japan at New Record Low  Nippon.com</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nippon.com/en/japan-data/h01323/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 15:05:38</dcterms:dateSubmitted>
+        <dc:description>Citation Key: homeless</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.esri.cao.go.jp/en/sna/stock/stock_top.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Quarterly Estimates of Net Capital Stocks of Fixed Assets : Economic and Social Research Institute - Cabinet Office Home Page</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.esri.cao.go.jp/en/sna/stock/stock_top.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 04:27:24</dcterms:dateSubmitted>
+        <dc:description>Citation Key: capital_stock</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.esri.cao.go.jp/en/sna/sokuhou/sokuhou_top.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Quarterly Estimates of gdp: Economic and Social Research Institute - Cabinet Office</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.esri.cao.go.jp/en/sna/sokuhou/sokuhou_top.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 04:28:11</dcterms:dateSubmitted>
+        <dc:description>Citation Key: real_gdp</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.stat.go.jp/english/data/roudou/lngindex.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Statistics Bureau Home Page/Labour Force Survey/Historical data</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.stat.go.jp/english/data/roudou/lngindex.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 04:40:39</dcterms:dateSubmitted>
+        <dc:description>Citation Key: labour_force</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://stats.oecd.org/index.aspx?DataSetCode=ANHRS#">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Average annual hours actually worked per worker</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://stats.oecd.org/index.aspx?DataSetCode=ANHRS#</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 04:42:48</dcterms:dateSubmitted>
+        <dc:description>Citation Key: work_hours</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="https://www.apec.org/docs/default-source/publications/2017/6/japan-financial-services-sector-reform/217_psu_japan_finance_final.pdf?sfvrsn=717d55a0_1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Japan: Financial Services Sector Reform</dc:title>
+        <dc:date>2017</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.apec.org/docs/default-source/publications/2017/6/japan-financial-services-sector-reform/217_psu_japan_finance_final.pdf?sfvrsn=717d55a0_1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: reform</dc:description>
+    </bib:Article>
+    <bib:Document rdf:about="https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?end=2021&amp;locations=JP&amp;start=1997">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>GDP per capita, PPP (current international $) - Japan</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?end=2021&amp;locations=JP&amp;start=1997</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 07:51:17</dcterms:dateSubmitted>
+        <dc:description>Citation Key: japan_ppp</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.nippon.com/en/in-depth/d00475/japan%E2%80%99s-statistics-scandal-the-need-for-new-approaches.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Japan's Statistics Scandal: The Need for New Approaches Nippon.com</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nippon.com/en/in-depth/d00475/japan%E2%80%99s-statistics-scandal-the-need-for-new-approaches.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 08:03:11</dcterms:dateSubmitted>
+        <dc:description>Citation Key: stats_error</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="https://pubs.aeaweb.org/doi/10.1257/jep.26.3.177">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0895-3309"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ueda</foaf:surname>
+                        <foaf:givenName>Kazuo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>Deleveraging and Monetary Policy: Japan Since the 1990s and the United States Since 2007</dc:title>
+        <dc:date>2012-08-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Deleveraging and Monetary Policy</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.aeaweb.org/doi/10.1257/jep.26.3.177</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 08:23:44</dcterms:dateSubmitted>
+        <dc:description>Citation Key: deleveraging</dc:description>
+        <bib:pages>177-202</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0895-3309">
+        <prism:volume>26</prism:volume>
+        <dc:title>Journal of Economic Perspectives</dc:title>
+        <dc:identifier>DOI 10.1257/jep.26.3.177</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Journal of Economic Perspectives</dcterms:alternative>
+        <dc:identifier>ISSN 0895-3309</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\japan\Deleveraging and Monetary Policy jep.26.3.177.pdf"/>
+        <dc:title>Deleveraging and Monetary Policy jep.26.3.177.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=US">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>GDP per capita, PPP (current international $) - United States</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=US</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 09:15:22</dcterms:dateSubmitted>
+        <dc:description>Citation Key: us_ppp</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.bloomberg.com/news/articles/2023-02-03/iphone-grabs-record-smartphone-profit-share-of-85-for-apple?leadSource=uverify%20wall">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>iPhone Grabs Record Smartphone Profit Share of 85% for Apple (AAPL) - Bloomberg</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bloomberg.com/news/articles/2023-02-03/iphone-grabs-record-smartphone-profit-share-of-85-for-apple?leadSource=uverify%20wall</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 10:40:03</dcterms:dateSubmitted>
+        <dc:description>Citation Key: iphone_share</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.mhlw.go.jp/english/wp/wp-hw11/index.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Annual Health, Labour and Welfare Report 2017</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mhlw.go.jp/english/wp/wp-hw11/index.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 14:13:07</dcterms:dateSubmitted>
+        <dc:description>Citation Key: welfare_2017</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.macrotrends.net/2593/nikkei-225-index-historical-chart-data">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Nikkei 225 Index - 67 Year Historical Chart</dc:title>
+        <dc:date>2023-06-24 13:54:22</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.macrotrends.net/2593/nikkei-225-index-historical-chart-data</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 13:54:22</dcterms:dateSubmitted>
+        <dc:description>Citation Key: nikkei_225</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0106.1996.tb00173.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1361-374X,%201468-0106"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blinder</foaf:surname>
+                        <foaf:givenName>Alan S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krueger</foaf:surname>
+                        <foaf:givenName>Alan B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>LABOR TURNOVER IN THE USA AND JAPAN: A TALE OF TWO COUNTRIES</dc:title>
+        <dc:date>06/1996</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>LABOR TURNOVER IN THE USA AND JAPAN</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0106.1996.tb00173.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 14:26:03</dcterms:dateSubmitted>
+        <dc:description>Citation Key: nenko</dc:description>
+        <bib:pages>27-57</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1361-374X,%201468-0106">
+        <prism:volume>1</prism:volume>
+        <dc:title>Pacific Economic Review</dc:title>
+        <dc:identifier>DOI 10.1111/j.1468-0106.1996.tb00173.x</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Pacific Economic Rev</dcterms:alternative>
+        <dc:identifier>ISSN 1361-374X, 1468-0106</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://www.reuters.com/business/retail-consumer/japans-fast-retailing-says-it-will-raise-wages-much-40-2023-01-11/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Uniqlo owner gives Japan Inc a jolt with 40 percent wage hike - Reuters</dc:title>
+        <dc:date>2023-06-24 14:59:55</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.reuters.com/business/retail-consumer/japans-fast-retailing-says-it-will-raise-wages-much-40-2023-01-11/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-24 14:59:55</dcterms:dateSubmitted>
+        <dc:description>Citation Key: uniqlo</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.cnbc.com/2023/04/12/warren-buffett-why-he-bought-5-japanese-trading-houses.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Warren Buffett: why he bought 5 Japanese trading houses</dc:title>
+        <dc:date>2023-06-25 06:46:46</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cnbc.com/2023/04/12/warren-buffett-why-he-bought-5-japanese-trading-houses.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 06:46:46</dcterms:dateSubmitted>
+        <dc:description>Citation Key: buffett</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2021&amp;locations=JP&amp;start=1990">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>GDP per capita (current US$) - Japan | Data</dc:title>
+        <dc:date>2023-06-25 07:48:57</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2021&amp;locations=JP&amp;start=1990</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 07:48:57</dcterms:dateSubmitted>
+        <dc:description>Citation Key: gdp_per_capita_usd</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.mhlw.go.jp/stf/newpage_25330.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>ホームレスの実態に関する全国調査（生活実態調査）結果について｜厚生労働省</dc:title>
+        <dc:date>2023-06-25 15:05:01</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mhlw.go.jp/stf/newpage_25330.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-25 15:05:01</dcterms:dateSubmitted>
+        <dc:description>Citation Key: homeless_2022</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S1094202501901498">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1094-2025"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayashi</foaf:surname>
+                        <foaf:givenName>Fumio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prescott</foaf:surname>
+                        <foaf:givenName>Edward C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_65"/>
+        <link:link rdf:resource="#item_66"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>growth model</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Japan</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>TFP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>workweek</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The 1990s in Japan: A Lost Decade</dc:title>
+        <dcterms:abstract>This paper examines the Japanese economy in the 1990s, a decade of economic stagnation. We find that the problem is not a breakdown of the financial system, as corporations large and small were able to find financing for investments. There is no evidence of profitable investment opportunities not being exploited due to lack of access to capital markets. The problem then and today is a low productivity growth rate. Growth theory, treating TFP as exogenous, accounts well for the Japanese lost decade of growth. We think that research effort should be focused on what policy changes will allow productivity to again grow rapidly. Journal of Economic Literature Classification Numbers: E2, E13, O4, O5.</dcterms:abstract>
+        <dc:date>2002-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The 1990s in Japan</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1094202501901498</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 02:27:16</dcterms:dateSubmitted>
+        <dc:description>Number: 1
+Citation Key: lost_decade</dc:description>
+        <bib:pages>206-235</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1094-2025">
+        <prism:volume>5</prism:volume>
+        <dc:title>Review of Economic Dynamics</dc:title>
+        <dc:identifier>DOI 10.1006/redy.2001.0149</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Review of Economic Dynamics</dcterms:alternative>
+        <dc:identifier>ISSN 1094-2025</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S1094202501901498?via%3Dihub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 02:27:21</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_66">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://researchdatabase.minneapolisfed.org/downloads/8623hx80d</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 02:27:24</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://japantoday.com/category/politics/aso-set-to-win-ldp-presidential-race">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Aso elected ldp president - Japan Today</dc:title>
+        <dc:date>2023-06-26 03:49:41</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://japantoday.com/category/politics/aso-set-to-win-ldp-presidential-race</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 03:49:41</dcterms:dateSubmitted>
+        <dc:description>Citation Key: aso</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.bbc.com/news/10211314">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Japanese PM Yukio Hatoyama resigns amid Okinawa row - BBC News</dc:title>
+        <dc:date>2023-06-26 04:13:19</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.bbc.com/news/10211314</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 04:13:19</dcterms:dateSubmitted>
+        <dc:description>Citation Key: break_promise</dc:description>
+    </bib:Document>
+    <rdf:Description rdf:about="https://en.wikipedia.org/w/index.php?title=2011_T%C5%8Dhoku_earthquake_and_tsunami&amp;oldid=1161904374">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Wikipedia</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_70"/>
+        <dc:title>2011 Tōhoku earthquake and tsunami</dc:title>
+        <dc:date>2023-06-25T19:13:46Z</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/w/index.php?title=2011_T%C5%8Dhoku_earthquake_and_tsunami&amp;oldid=1161904374</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 04:17:03</dcterms:dateSubmitted>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Citation Key: earthquake</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 04:17:09</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://web.archive.org/web/20171118081548/http://lexicon.ft.com/Term?term=abenomics">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Abenomics Definition from Financial Times Lexicon</dc:title>
+        <dc:date>2023-06-26 04:21:19</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://web.archive.org/web/20171118081548/http://lexicon.ft.com/Term?term=abenomics</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 04:21:19</dcterms:dateSubmitted>
+        <dc:description>Citation Key: abenomics</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.channelnewsasia.com/asia/migrant-workers-japan-firms-turn-foreigners-ease-labour-shortage-3118061">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Migrant workers in Japan: Firms turn to foreigners to ease labour shortage - CNA</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.channelnewsasia.com/asia/migrant-workers-japan-firms-turn-foreigners-ease-labour-shortage-3118061</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 06:24:15</dcterms:dateSubmitted>
+        <dc:description>Citation Key: migrant_workers</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.businesstimes.com.sg/wealth/wealth-investing/foreign-investors-flocking-japan-warren-buffetts-seal-approval">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Foreign investors flocking to Japan with Warren Buffett's seal of approval, Wealth &amp; Investing - THE BUSINESS TIMES</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.businesstimes.com.sg/wealth/wealth-investing/foreign-investors-flocking-japan-warren-buffetts-seal-approval</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 06:45:24</dcterms:dateSubmitted>
+        <dc:description>Citation Key: low_return</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="#item_74">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Yee Nee</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Weng Wei</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Analysis of YEN/USD exchange rate using asset market approach, ECON 6011 group project</dc:title>
+        <dc:description>Citation Key: yen_project</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://medcraveonline.com/IRATJ/the-role-of-the-automobile-industry-in-the-economy-of-developed-countries.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:25748092"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saberi</foaf:surname>
+                        <foaf:givenName>Behzad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_75"/>
+        <dc:title>The role of the automobile industry in the economy of developed countries</dc:title>
+        <dcterms:abstract>The article is devoted to the analysis of the role of the automobile industry in the economy of developed countries. The work reflects the extremely high role of the automotive industry in GDP growth and employment generation, the ability of the automotive industry to form a taxable base and revenues of the state budget, As well as the role of the automobile industry in the development of auxiliary industries and the stimulation of scientific and technological progress.</dcterms:abstract>
+        <dc:date>2018-5-17</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://medcraveonline.com/IRATJ/the-role-of-the-automobile-industry-in-the-economy-of-developed-countries.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 07:50:22</dcterms:dateSubmitted>
+        <dc:description>Citation Key: automobile</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:25748092">
+        <prism:volume>4</prism:volume>
+        <dc:title>International Robotics &amp; Automation Journal</dc:title>
+        <dc:identifier>DOI 10.15406/iratj.2018.04.00119</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>IRATJ</dcterms:alternative>
+        <dc:identifier>ISSN 25748092</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\japan\automobile industry IRATJ-04-00119.pdf"/>
+        <dc:title>automobile industry IRATJ-04-00119.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=JP">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Manufacturing, value added (percentage of GDP) - World Bank</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=JP</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 08:26:21</dcterms:dateSubmitted>
+        <dc:description>Citation Key: manufacturing</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.statista.com/statistics/1204099/number-fortune-500-companies-worldwide-country/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Number of Fortune 500 companies per country 2022 | Statista</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.statista.com/statistics/1204099/number-fortune-500-companies-worldwide-country/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 08:37:07</dcterms:dateSubmitted>
+        <dc:description>Citation Key: fortune_500</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://data.oecd.org/unemp/unemployment-rate.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Unemployment - Unemployment rate - OECD Data</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.oecd.org/unemp/unemployment-rate.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 08:50:10</dcterms:dateSubmitted>
+        <dc:description>Citation Key: unemployment</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-Vision-Pro-raises-hopes-at-Sony-other-Japan-suppliers">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Apple Vision Pro raises hopes at Sony, other Japan suppliers - Nikkei Asia</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-Vision-Pro-raises-hopes-at-Sony-other-Japan-suppliers</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-26 09:05:47</dcterms:dateSubmitted>
+        <dc:description>Citation Key: vision_pro</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://data.worldbank.org/indicator/BN.CAB.XOKA.CD?locations=KR">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Current account balance (BoP, current US$) - Korea, Rep. | Data</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.worldbank.org/indicator/BN.CAB.XOKA.CD?locations=KR</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 12:44:04</dcterms:dateSubmitted>
+        <dc:description>Citation Key: bop</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.bok.or.kr/eng/bbs/E0000746/list.do?menuNo=400228">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>| Korea System of National Accounts(목록) | Books | Research Papers | Bank of korea</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bok.or.kr/eng/bbs/E0000746/list.do?menuNo=400228</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 13:06:46</dcterms:dateSubmitted>
+        <dc:description>Citation Key: national_accounts_book</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://english.moef.go.kr/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Ministry of Economy and Finance</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://english.moef.go.kr/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 13:24:34</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5532#_ftn1">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>2022 Government Financial Statement</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5532#_ftn1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 13:26:35</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5300">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>2021 External Debt</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5300</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 13:27:19</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5504">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>2022 External Debt</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5504</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 13:27:42</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=4631">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>2018 External Debt</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=4631</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 13:30:06</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.bok.or.kr/eng/main/contents.do?menuNo=400196">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>International Reserves and External Debts</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bok.or.kr/eng/main/contents.do?menuNo=400196</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 13:32:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=4260">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>2016 External Debt</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=4260</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 13:33:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_90">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\korea\TheBudgetSystemofKorea.pdf"/>
+        <dc:title>TheBudgetSystemofKorea.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_91">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Korean Ministry of Strategy and Finance (2014)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Budget System of Korea</dc:title>
+        <dc:description>Citation Key: budget_system</dc:description>
+    </bib:Book>
+    <bib:Document rdf:about="https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KR">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>GDP growth (annual percentage) - Korea, Rep. | Data</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KR</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-27 14:22:04</dcterms:dateSubmitted>
+        <dc:description>Citation Key: gdp_growth</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.ft.com/content/17ca503e-971c-11e9-8cfb-30c211dcd229">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Death of Korea’s top tax dodger puts chaebol families on the spot | Financial Times</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ft.com/content/17ca503e-971c-11e9-8cfb-30c211dcd229</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-29 12:44:49</dcterms:dateSubmitted>
+        <dc:rights>Citation Key: dodger</dc:rights>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.koreaherald.com/view.php?ud=20190418000688">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>[News Analysis] High inheritance tax fuels chaebol monopoly</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.koreaherald.com/view.php?ud=20190418000688</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-29 12:50:04</dcterms:dateSubmitted>
+        <dc:rights>Citation Key: estate_tax</dc:rights>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.eastasiaforum.org/2021/03/24/chaebol-reforms-are-crucial-for-south-koreas-future/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Chaebol reforms are crucial for South Korea’s future | East Asia Forum</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.eastasiaforum.org/2021/03/24/chaebol-reforms-are-crucial-for-south-koreas-future/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-29 12:57:43</dcterms:dateSubmitted>
+        <dc:description>Citation Key: chaebol_reforms</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.reuters.com/markets/rates-bonds/skorea-cut-taxes-companies-workers-retail-investors-2022-07-21/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>S.Korea to cut taxes for companies, workers and retail investors | Reuters</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.reuters.com/markets/rates-bonds/skorea-cut-taxes-companies-workers-retail-investors-2022-07-21/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-29 13:33:27</dcterms:dateSubmitted>
+        <dc:description>Citation Key: tax_cut</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.reuters.com/article/us-southkorea-politics-timeline-idUSKBN16H09W">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Timeline: South Korea's impeached President Park Geun-hye | Reuters</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.reuters.com/article/us-southkorea-politics-timeline-idUSKBN16H09W</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 07:43:03</dcterms:dateSubmitted>
+        <dc:description>Citation Key: impeach</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://english.moef.go.kr/pc/selectTbPressCenterList.do?boardCd=N0001&amp;division=006">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Budget Office - Ministry of Economy and Finance  - South Korea</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://english.moef.go.kr/pc/selectTbPressCenterList.do?boardCd=N0001&amp;division=006</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 07:44:47</dcterms:dateSubmitted>
+        <dc:description>Citation Key: budget_office</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://english.moef.go.kr/pc/selectTbPressCenterList.do?boardCd=N0001&amp;division=011">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Fiscal Management Bureau - Ministry of Economy and Finance - South Korea</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://english.moef.go.kr/pc/selectTbPressCenterList.do?boardCd=N0001&amp;division=011</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 07:45:56</dcterms:dateSubmitted>
+        <dc:description>Citation Key: fiscal_bureau</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://data.oecd.org/gga/general-government-debt.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>General government - General government debt - OECD Data</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.oecd.org/gga/general-government-debt.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 07:54:03</dcterms:dateSubmitted>
+        <dc:description>Citation Key: debt_to_gdp</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.bok.or.kr/eng/singl/baseRate/progress.do?dataSeCd=01&amp;menuNo=400016">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>The Bank of Korea Base Rate | Monetary Policy Framework | Monetary Policy | Bank of korea</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.bok.or.kr/eng/singl/baseRate/progress.do?dataSeCd=01&amp;menuNo=400016</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 08:32:11</dcterms:dateSubmitted>
+        <dc:description>Citation Key: interest_rate</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://data.oecd.org/pop/fertility-rates.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Demography - Fertility rates - OECD Data</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.oecd.org/pop/fertility-rates.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 09:14:41</dcterms:dateSubmitted>
+        <dc:description>Citation Key: fertility_rate</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="https://www.oecd.org/tax/revenue-statistics-korea.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Revenue Statistics 2022 - Korea - OECD</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.oecd.org/tax/revenue-statistics-korea.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: tax_structure</dc:description>
+    </bib:Article>
+    <bib:Document rdf:about="https://koreajoongangdaily.joins.com/2023/01/13/business/economy/Korea-real-estate-tax/20230113180959901.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Koreans have the highest real estate taxes in the OECD</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://koreajoongangdaily.joins.com/2023/01/13/business/economy/Korea-real-estate-tax/20230113180959901.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 09:23:44</dcterms:dateSubmitted>
+        <dc:description>Citation Key: property_tax</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.reuters.com/world/asia-pacific/south-koreas-jeonse-rent-free-renters-hit-by-property-downturn-2023-02-21/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>South Korea's 'jeonse' rent-free renters hit by property downturn | Reuters</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.reuters.com/world/asia-pacific/south-koreas-jeonse-rent-free-renters-hit-by-property-downturn-2023-02-21/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 09:25:10</dcterms:dateSubmitted>
+        <dc:description>Citation Key: housing_crisis</dc:description>
+    </bib:Document>
+    <bib:Article rdf:about="https://www.imf.org/external/pubs/ft/scr/2014/cr14101.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>2013 ARTICLE IV CONSULTATION - Republic of Korea - IMF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.imf.org/external/pubs/ft/scr/2014/cr14101.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: 2013_imf_article_4</dc:description>
+    </bib:Article>
+    <bib:Document rdf:about="https://english.hani.co.kr/arti/english_edition/e_business/623602.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>South Korea a veritable tax break paradise for chaebol : Business : News : The Hankyoreh</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://english.hani.co.kr/arti/english_edition/e_business/623602.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 10:28:56</dcterms:dateSubmitted>
+        <dc:description>Citation Key: chaebol_tax</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.merriam-webster.com/dictionary/chaebol">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Chaebol Definition &amp; Meaning - Merriam-Webster</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.merriam-webster.com/dictionary/chaebol</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 10:32:19</dcterms:dateSubmitted>
+        <dc:description>Citation Key: chaebol</dc:description>
+    </bib:Document>
+    <bib:Book rdf:about="https://scholar.harvard.edu/files/frankel/files/skorea-conglomerates2017sage.pdf">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>SAGE Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Premack</foaf:surname>
+                        <foaf:givenName>Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_110"/>
+        <dc:title>South Korea’s Conglomerates  SAGE Business Researcher</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.harvard.edu/files/frankel/files/skorea-conglomerates2017sage.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: chaebol_gdp</dc:description>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_110">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\wuvis\code\papers\korea\skorea-conglomerates2017sage.pdf"/>
+        <dc:title>skorea-conglomerates2017sage.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://en.wikipedia.org/wiki/Ulsan">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Ulsan - Wikipedia</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://en.wikipedia.org/wiki/Ulsan</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 10:46:26</dcterms:dateSubmitted>
+        <dc:description>Citation Key: ulsan</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.ey.com/en_gl/tax-alerts/korea-enacts-2023-tax-reform-bill">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Korea enacts 2023 tax reform bill | EY - Global</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ey.com/en_gl/tax-alerts/korea-enacts-2023-tax-reform-bill</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-06-30 10:55:49</dcterms:dateSubmitted>
+        <dc:description>Citation Key: tax_reform</dc:description>
+    </bib:Document>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>japan</dc:title>
+        <dcterms:hasPart rdf:resource="#item_7"/>
+        <dcterms:hasPart rdf:resource="https://www.mhlw.go.jp/english/database/db-oh/index.html"/>
+        <dcterms:hasPart rdf:resource="https://data.worldbank.org/indicator/FS.AST.PRVT.GD.ZS?end=2021&amp;locations=JP&amp;start=1996"/>
+        <dcterms:hasPart rdf:resource="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Q-and-A-session-at-the-27th-International-Conference-on-the-Future-of-Asia"/>
+        <dcterms:hasPart rdf:resource="https://electrek.co/2022/01/20/honda-ceo-says-toyotas-strategy-to-pursue-hydrogen-cars-doesnt-seem-feasible/"/>
+        <dcterms:hasPart rdf:resource="https://www.magpictures.com/jirodreamsofsushi/"/>
+        <dcterms:hasPart rdf:resource="#item_16"/>
+        <dcterms:hasPart rdf:resource="https://www8.cao.go.jp/shoushi/shoushika/whitepaper/measures/english/index-wh.html"/>
+        <dcterms:hasPart rdf:resource="https://data.oecd.org/inequality/income-inequality.htm"/>
+        <dcterms:hasPart rdf:resource="https://www.nippon.com/en/japan-data/h01323/"/>
+        <dcterms:hasPart rdf:resource="https://www.esri.cao.go.jp/en/sna/stock/stock_top.html"/>
+        <dcterms:hasPart rdf:resource="https://www.esri.cao.go.jp/en/sna/sokuhou/sokuhou_top.html"/>
+        <dcterms:hasPart rdf:resource="https://www.stat.go.jp/english/data/roudou/lngindex.html"/>
+        <dcterms:hasPart rdf:resource="https://stats.oecd.org/index.aspx?DataSetCode=ANHRS#"/>
+        <dcterms:hasPart rdf:resource="https://www.apec.org/docs/default-source/publications/2017/6/japan-financial-services-sector-reform/217_psu_japan_finance_final.pdf?sfvrsn=717d55a0_1"/>
+        <dcterms:hasPart rdf:resource="https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?end=2021&amp;locations=JP&amp;start=1997"/>
+        <dcterms:hasPart rdf:resource="https://www.nippon.com/en/in-depth/d00475/japan%E2%80%99s-statistics-scandal-the-need-for-new-approaches.html"/>
+        <dcterms:hasPart rdf:resource="https://pubs.aeaweb.org/doi/10.1257/jep.26.3.177"/>
+        <dcterms:hasPart rdf:resource="https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=US"/>
+        <dcterms:hasPart rdf:resource="https://www.bloomberg.com/news/articles/2023-02-03/iphone-grabs-record-smartphone-profit-share-of-85-for-apple?leadSource=uverify%20wall"/>
+        <dcterms:hasPart rdf:resource="https://www.mhlw.go.jp/english/wp/wp-hw11/index.html"/>
+        <dcterms:hasPart rdf:resource="https://www.macrotrends.net/2593/nikkei-225-index-historical-chart-data"/>
+        <dcterms:hasPart rdf:resource="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0106.1996.tb00173.x"/>
+        <dcterms:hasPart rdf:resource="https://www.reuters.com/business/retail-consumer/japans-fast-retailing-says-it-will-raise-wages-much-40-2023-01-11/"/>
+        <dcterms:hasPart rdf:resource="https://www.cnbc.com/2023/04/12/warren-buffett-why-he-bought-5-japanese-trading-houses.html"/>
+        <dcterms:hasPart rdf:resource="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?end=2021&amp;locations=JP&amp;start=1990"/>
+        <dcterms:hasPart rdf:resource="https://www.mhlw.go.jp/stf/newpage_25330.html"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S1094202501901498"/>
+        <dcterms:hasPart rdf:resource="https://japantoday.com/category/politics/aso-set-to-win-ldp-presidential-race"/>
+        <dcterms:hasPart rdf:resource="https://www.bbc.com/news/10211314"/>
+        <dcterms:hasPart rdf:resource="https://en.wikipedia.org/w/index.php?title=2011_T%C5%8Dhoku_earthquake_and_tsunami&amp;oldid=1161904374"/>
+        <dcterms:hasPart rdf:resource="https://web.archive.org/web/20171118081548/http://lexicon.ft.com/Term?term=abenomics"/>
+        <dcterms:hasPart rdf:resource="https://www.channelnewsasia.com/asia/migrant-workers-japan-firms-turn-foreigners-ease-labour-shortage-3118061"/>
+        <dcterms:hasPart rdf:resource="https://www.businesstimes.com.sg/wealth/wealth-investing/foreign-investors-flocking-japan-warren-buffetts-seal-approval"/>
+        <dcterms:hasPart rdf:resource="#item_74"/>
+        <dcterms:hasPart rdf:resource="https://medcraveonline.com/IRATJ/the-role-of-the-automobile-industry-in-the-economy-of-developed-countries.html"/>
+        <dcterms:hasPart rdf:resource="https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=JP"/>
+        <dcterms:hasPart rdf:resource="https://www.statista.com/statistics/1204099/number-fortune-500-companies-worldwide-country/"/>
+        <dcterms:hasPart rdf:resource="https://data.oecd.org/unemp/unemployment-rate.htm"/>
+        <dcterms:hasPart rdf:resource="https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-Vision-Pro-raises-hopes-at-Sony-other-Japan-suppliers"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>korea</dc:title>
+        <dcterms:hasPart rdf:resource="https://data.worldbank.org/indicator/BN.CAB.XOKA.CD?locations=KR"/>
+        <dcterms:hasPart rdf:resource="https://www.bok.or.kr/eng/bbs/E0000746/list.do?menuNo=400228"/>
+        <dcterms:hasPart rdf:resource="https://english.moef.go.kr/"/>
+        <dcterms:hasPart rdf:resource="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5532#_ftn1"/>
+        <dcterms:hasPart rdf:resource="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5300"/>
+        <dcterms:hasPart rdf:resource="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=5504"/>
+        <dcterms:hasPart rdf:resource="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=4631"/>
+        <dcterms:hasPart rdf:resource="https://www.bok.or.kr/eng/main/contents.do?menuNo=400196"/>
+        <dcterms:hasPart rdf:resource="https://english.moef.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&amp;seq=4260"/>
+        <dcterms:hasPart rdf:resource="#item_91"/>
+        <dcterms:hasPart rdf:resource="https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KR"/>
+        <dcterms:hasPart rdf:resource="https://www.ft.com/content/17ca503e-971c-11e9-8cfb-30c211dcd229"/>
+        <dcterms:hasPart rdf:resource="https://www.koreaherald.com/view.php?ud=20190418000688"/>
+        <dcterms:hasPart rdf:resource="https://www.eastasiaforum.org/2021/03/24/chaebol-reforms-are-crucial-for-south-koreas-future/"/>
+        <dcterms:hasPart rdf:resource="https://www.reuters.com/markets/rates-bonds/skorea-cut-taxes-companies-workers-retail-investors-2022-07-21/"/>
+        <dcterms:hasPart rdf:resource="https://www.reuters.com/article/us-southkorea-politics-timeline-idUSKBN16H09W"/>
+        <dcterms:hasPart rdf:resource="https://english.moef.go.kr/pc/selectTbPressCenterList.do?boardCd=N0001&amp;division=006"/>
+        <dcterms:hasPart rdf:resource="https://english.moef.go.kr/pc/selectTbPressCenterList.do?boardCd=N0001&amp;division=011"/>
+        <dcterms:hasPart rdf:resource="https://data.oecd.org/gga/general-government-debt.htm"/>
+        <dcterms:hasPart rdf:resource="https://www.bok.or.kr/eng/singl/baseRate/progress.do?dataSeCd=01&amp;menuNo=400016"/>
+        <dcterms:hasPart rdf:resource="https://data.oecd.org/pop/fertility-rates.htm"/>
+        <dcterms:hasPart rdf:resource="https://www.oecd.org/tax/revenue-statistics-korea.pdf"/>
+        <dcterms:hasPart rdf:resource="https://koreajoongangdaily.joins.com/2023/01/13/business/economy/Korea-real-estate-tax/20230113180959901.html"/>
+        <dcterms:hasPart rdf:resource="https://www.reuters.com/world/asia-pacific/south-koreas-jeonse-rent-free-renters-hit-by-property-downturn-2023-02-21/"/>
+        <dcterms:hasPart rdf:resource="https://www.imf.org/external/pubs/ft/scr/2014/cr14101.pdf"/>
+        <dcterms:hasPart rdf:resource="https://english.hani.co.kr/arti/english_edition/e_business/623602.html"/>
+        <dcterms:hasPart rdf:resource="https://www.merriam-webster.com/dictionary/chaebol"/>
+        <dcterms:hasPart rdf:resource="https://scholar.harvard.edu/files/frankel/files/skorea-conglomerates2017sage.pdf"/>
+        <dcterms:hasPart rdf:resource="https://en.wikipedia.org/wiki/Ulsan"/>
+        <dcterms:hasPart rdf:resource="https://www.ey.com/en_gl/tax-alerts/korea-enacts-2023-tax-reform-bill"/>
+    </z:Collection>
+</rdf:RDF>
