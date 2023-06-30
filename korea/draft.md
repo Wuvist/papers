@@ -19,4 +19,4 @@ large corporations
 
 real estate prices market crash
 
-In his first annual tax code revision, the Yoon administration proposed cutting the maximum corporate tax rate to 22% from the current 25% and lowering the threshold for income taxes to put more salaried workers in the lower income tax basket of 15%.
+In his first annual tax code revision, the Yoon administration proposed cutting the maximum corporate tax rate to 22% from the current 25% and lowering the threshold for income taxes to put more salaried workers in the lower income tax basket of 15%.ls 
